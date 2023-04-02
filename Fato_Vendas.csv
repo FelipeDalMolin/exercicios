@@ -1,0 +1,505 @@
+NUM_VENDA,COD_CLIENTE,NOM_CLIENTE,COD_VENDEDOR,NOM_VENDEDOR,COD_CIDADE,NOM_CIDADE,COD_PRODUTO,NOM_PRODUTO,COD_MARCA,NOM_MARCA,COD_DEPARTAMENTO,NOM_DEPARTAMENTO,COD_GERENCIA,NOM_GERENCIA,ANO_VENDA,MES_VENDA,DIA_VENDA,DATA_VENDA,QTD_VENDA,VAL_VENDA,NUM_NOTA
+1,3,Luciana Pereira,4,Mario Menezes,3,New York,4,Monitor,4,IBM,1,Informatica,1,Tecnologia,2020,8,22,22/08/2020,1,1300,1033
+2,5,Daniela,12,Fabio Lopes,5,Tokio,10,Papel A4,8,FABER CASTELL,1,Informatica,3,Eletro Eletronico,2019,8,15,15/08/2019,1,2.15,812
+3,5,Daniela,5,Elisangela Ines,1,Sao Paulo,11,Caneta,8,FABER CASTELL,1,Informatica,4,Casa e Decoracao,2019,4,26,26/04/2019,2,.5,447
+4,2,Mariana Pereira,10,Leandro Nunes,4,Paris,19,Fogao,13,BRASTEMP,1,Informatica,2,Papelaria/Cosmetico,2019,1,9,09/01/2019,1,1500,509
+5,6,Jose Santos,2,Fabiana Arantes,3,New York,16,Perfume,11,PHILIPS,3,Papelaria,2,Papelaria/Cosmetico,2020,5,24,24/05/2020,1,135,1337
+6,1,Joao Vitor,2,Fabiana Arantes,2,Salvador,11,Caneta,8,FABER CASTELL,2,Telefonia,2,Papelaria/Cosmetico,2019,7,25,25/07/2019,1,.5,1337
+7,3,Luciana Pereira,6,Rodrigo Faro,1,Sao Paulo,9,Celular 128Gb,8,FABER CASTELL,6,Eletrodomestico,4,Casa e Decoracao,2020,3,12,12/03/2020,1,12.25,724
+8,4,Ana Claudia,8,Marcia Raso,5,Tokio,19,Fogao,13,BRASTEMP,2,Telefonia,1,Tecnologia,2019,8,17,17/08/2019,2,1500,375
+9,4,Ana Claudia,12,Fabio Lopes,4,Paris,20,Geladeira,12,ELETROLUX,6,Eletrodomestico,4,Casa e Decoracao,2020,2,7,07/02/2020,2,350,416
+10,2,Mariana Pereira,7,Ana Claudia Rossi,2,Salvador,15,Baton,10,BOTICARIO,3,Papelaria,4,Casa e Decoracao,2019,10,7,07/10/2019,1,98.5,1085
+11,3,Luciana Pereira,6,Rodrigo Faro,4,Paris,16,Perfume,11,PHILIPS,3,Papelaria,3,Eletro Eletronico,2019,7,2,02/07/2019,1,135,692
+12,6,Jose Santos,8,Marcia Raso,4,Paris,18,Xbox,12,ELETROLUX,6,Eletrodomestico,1,Tecnologia,2019,4,2,02/04/2019,3,850,74
+13,5,Daniela,11,Nizam Omar,5,Tokio,9,Celular 128Gb,8,FABER CASTELL,3,Papelaria,1,Tecnologia,2020,10,3,03/10/2020,3,12.25,797
+14,1,Joao Vitor,3,Abilio Bio,5,Tokio,18,Xbox,12,ELETROLUX,5,Eletronico,1,Tecnologia,2020,3,12,12/03/2020,3,850,391
+15,2,Mariana Pereira,3,Abilio Bio,1,Sao Paulo,8,Telefone Sem Fio,5,SAMSUNG,4,Cosmetico,3,Eletro Eletronico,2019,3,13,13/03/2019,1,875,700
+16,3,Luciana Pereira,5,Elisangela Ines,3,New York,15,Baton,10,BOTICARIO,1,Informatica,2,Papelaria/Cosmetico,2019,2,15,15/02/2019,3,98.5,241
+17,4,Ana Claudia,3,Abilio Bio,1,Sao Paulo,21,Microondas,14,MAGALU,4,Cosmetico,4,Casa e Decoracao,2019,3,4,04/03/2019,3,2100,403
+18,5,Daniela,11,Nizam Omar,1,Sao Paulo,8,Telefone Sem Fio,5,SAMSUNG,5,Eletronico,3,Eletro Eletronico,2019,10,15,15/10/2019,2,875,1427
+19,1,Joao Vitor,5,Elisangela Ines,5,Tokio,7,Celular 64GB,5,SAMSUNG,4,Cosmetico,1,Tecnologia,2019,11,9,09/11/2019,1,52.9,210
+20,1,Joao Vitor,11,Nizam Omar,2,Salvador,14,Classificador,9,AVON,4,Cosmetico,4,Casa e Decoracao,2019,3,1,01/03/2019,2,25,849
+21,1,Joao Vitor,10,Leandro Nunes,4,Paris,10,Papel A4,8,FABER CASTELL,2,Telefonia,3,Eletro Eletronico,2020,11,3,03/11/2020,1,2.15,409
+22,6,Jose Santos,3,Abilio Bio,4,Paris,8,Telefone Sem Fio,5,SAMSUNG,6,Eletrodomestico,2,Papelaria/Cosmetico,2020,11,22,22/11/2020,1,875,1380
+23,6,Jose Santos,5,Elisangela Ines,1,Sao Paulo,22,Mesa,14,MAGALU,2,Telefonia,4,Casa e Decoracao,2020,3,18,18/03/2020,3,1600,750
+24,4,Ana Claudia,11,Nizam Omar,4,Paris,17,Aparelho de Barbear Eletrico,2,MICROSOFT,1,Informatica,4,Casa e Decoracao,2019,4,19,19/04/2019,3,1075,1492
+25,4,Ana Claudia,6,Rodrigo Faro,3,New York,3,Teclado,1,APPLE,2,Telefonia,4,Casa e Decoracao,2019,5,10,10/05/2019,1,342.09,1148
+26,5,Daniela,12,Fabio Lopes,5,Tokio,12,Borracha,7,TILIBRA,3,Papelaria,2,Papelaria/Cosmetico,2020,8,18,18/08/2020,2,5.3,842
+27,2,Mariana Pereira,4,Mario Menezes,3,New York,16,Perfume,11,PHILIPS,6,Eletrodomestico,2,Papelaria/Cosmetico,2019,8,19,19/08/2019,1,135,77
+28,2,Mariana Pereira,9,Leandro Pupo,2,Salvador,1,TV,3,DELL,3,Papelaria,3,Eletro Eletronico,2019,7,22,22/07/2019,3,25.15,649
+29,3,Luciana Pereira,10,Leandro Nunes,4,Paris,17,Aparelho de Barbear Eletrico,2,MICROSOFT,2,Telefonia,4,Casa e Decoracao,2019,2,10,10/02/2019,1,1075,107
+30,4,Ana Claudia,10,Leandro Nunes,4,Paris,5,Computador,4,IBM,3,Papelaria,1,Tecnologia,2020,9,24,24/09/2020,1,2125.99,489
+31,6,Jose Santos,3,Abilio Bio,5,Tokio,1,TV,3,DELL,4,Cosmetico,3,Eletro Eletronico,2019,8,5,05/08/2019,1,25.15,159
+32,3,Luciana Pereira,12,Fabio Lopes,2,Salvador,9,Celular 128Gb,8,FABER CASTELL,6,Eletrodomestico,2,Papelaria/Cosmetico,2019,1,9,09/01/2019,2,12.25,307
+33,6,Jose Santos,8,Marcia Raso,4,Paris,7,Celular 64GB,5,SAMSUNG,6,Eletrodomestico,3,Eletro Eletronico,2020,11,25,25/11/2020,3,52.9,168
+34,5,Daniela,4,Mario Menezes,5,Tokio,5,Computador,4,IBM,2,Telefonia,3,Eletro Eletronico,2020,2,4,04/02/2020,2,2125.99,836
+35,4,Ana Claudia,7,Ana Claudia Rossi,4,Paris,17,Aparelho de Barbear Eletrico,2,MICROSOFT,1,Informatica,2,Papelaria/Cosmetico,2019,8,17,17/08/2019,2,1075,1253
+36,2,Mariana Pereira,3,Abilio Bio,1,Sao Paulo,3,Teclado,1,APPLE,1,Informatica,2,Papelaria/Cosmetico,2020,2,24,24/02/2020,1,342.09,1431
+37,6,Jose Santos,9,Leandro Pupo,5,Tokio,11,Caneta,8,FABER CASTELL,1,Informatica,4,Casa e Decoracao,2020,4,10,10/04/2020,1,.5,1160
+38,1,Joao Vitor,8,Marcia Raso,5,Tokio,3,Teclado,1,APPLE,2,Telefonia,3,Eletro Eletronico,2020,3,19,19/03/2020,1,342.09,155
+39,6,Jose Santos,10,Leandro Nunes,3,New York,15,Baton,10,BOTICARIO,3,Papelaria,4,Casa e Decoracao,2020,7,16,16/07/2020,3,98.5,251
+40,6,Jose Santos,12,Fabio Lopes,3,New York,2,Mouse,2,MICROSOFT,6,Eletrodomestico,4,Casa e Decoracao,2019,2,10,10/02/2019,1,25.9,913
+41,4,Ana Claudia,9,Leandro Pupo,4,Paris,5,Computador,4,IBM,1,Informatica,4,Casa e Decoracao,2019,9,9,09/09/2019,3,2125.99,54
+42,1,Joao Vitor,11,Nizam Omar,3,New York,14,Classificador,9,AVON,4,Cosmetico,4,Casa e Decoracao,2019,11,27,27/11/2019,3,25,1101
+43,2,Mariana Pereira,8,Marcia Raso,3,New York,3,Teclado,1,APPLE,5,Eletronico,4,Casa e Decoracao,2019,10,1,01/10/2019,2,342.09,860
+44,6,Jose Santos,1,Dirceu Matheus,3,New York,17,Aparelho de Barbear Eletrico,2,MICROSOFT,2,Telefonia,3,Eletro Eletronico,2019,5,19,19/05/2019,2,1075,182
+45,6,Jose Santos,1,Dirceu Matheus,5,Tokio,17,Aparelho de Barbear Eletrico,2,MICROSOFT,4,Cosmetico,1,Tecnologia,2020,2,23,23/02/2020,1,1075,1110
+46,6,Jose Santos,11,Nizam Omar,3,New York,18,Xbox,12,ELETROLUX,2,Telefonia,3,Eletro Eletronico,2020,1,9,09/01/2020,1,850,621
+47,1,Joao Vitor,4,Mario Menezes,1,Sao Paulo,2,Mouse,2,MICROSOFT,1,Informatica,4,Casa e Decoracao,2020,10,27,27/10/2020,3,25.9,9
+48,4,Ana Claudia,9,Leandro Pupo,2,Salvador,20,Geladeira,12,ELETROLUX,1,Informatica,2,Papelaria/Cosmetico,2020,1,12,12/01/2020,3,350,1098
+49,1,Joao Vitor,9,Leandro Pupo,1,Sao Paulo,5,Computador,4,IBM,2,Telefonia,4,Casa e Decoracao,2019,12,15,15/12/2019,2,2125.99,1304
+50,5,Daniela,4,Mario Menezes,4,Paris,19,Fogao,13,BRASTEMP,2,Telefonia,1,Tecnologia,2019,5,11,11/05/2019,3,1500,953
+51,1,Joao Vitor,1,Dirceu Matheus,1,Sao Paulo,23,Sofá,14,MAGALU,4,Cosmetico,2,Papelaria/Cosmetico,2020,5,26,26/05/2020,1,300,848
+52,3,Luciana Pereira,4,Mario Menezes,3,New York,22,Mesa,14,MAGALU,1,Informatica,2,Papelaria/Cosmetico,2020,11,26,26/11/2020,3,1600,1451
+53,2,Mariana Pereira,3,Abilio Bio,4,Paris,1,TV,3,DELL,2,Telefonia,1,Tecnologia,2020,9,9,09/09/2020,3,25.15,1245
+54,3,Luciana Pereira,8,Marcia Raso,4,Paris,9,Celular 128Gb,8,FABER CASTELL,5,Eletronico,3,Eletro Eletronico,2020,12,24,24/12/2020,3,12.25,646
+55,6,Jose Santos,1,Dirceu Matheus,1,Sao Paulo,2,Mouse,2,MICROSOFT,2,Telefonia,1,Tecnologia,2019,12,13,13/12/2019,2,25.9,911
+56,3,Luciana Pereira,12,Fabio Lopes,4,Paris,7,Celular 64GB,5,SAMSUNG,6,Eletrodomestico,3,Eletro Eletronico,2019,1,15,15/01/2019,2,52.9,1354
+57,2,Mariana Pereira,1,Dirceu Matheus,5,Tokio,13,Estojo,7,TILIBRA,6,Eletrodomestico,2,Papelaria/Cosmetico,2019,8,1,01/08/2019,3,3.2,264
+58,6,Jose Santos,5,Elisangela Ines,1,Sao Paulo,13,Estojo,7,TILIBRA,2,Telefonia,3,Eletro Eletronico,2020,7,15,15/07/2020,1,3.2,198
+59,4,Ana Claudia,12,Fabio Lopes,4,Paris,3,Teclado,1,APPLE,3,Papelaria,3,Eletro Eletronico,2019,2,2,02/02/2019,1,342.09,848
+60,3,Luciana Pereira,4,Mario Menezes,4,Paris,22,Mesa,14,MAGALU,5,Eletronico,4,Casa e Decoracao,2020,7,13,13/07/2020,2,1600,314
+61,6,Jose Santos,3,Abilio Bio,2,Salvador,9,Celular 128Gb,8,FABER CASTELL,5,Eletronico,4,Casa e Decoracao,2020,6,14,14/06/2020,1,12.25,1422
+62,2,Mariana Pereira,9,Leandro Pupo,4,Paris,21,Microondas,14,MAGALU,4,Cosmetico,1,Tecnologia,2020,11,10,10/11/2020,3,2100,215
+63,5,Daniela,3,Abilio Bio,4,Paris,13,Estojo,7,TILIBRA,2,Telefonia,1,Tecnologia,2020,2,18,18/02/2020,3,3.2,490
+64,6,Jose Santos,11,Nizam Omar,5,Tokio,4,Monitor,4,IBM,2,Telefonia,1,Tecnologia,2019,3,23,23/03/2019,1,1300,641
+65,1,Joao Vitor,2,Fabiana Arantes,1,Sao Paulo,20,Geladeira,12,ELETROLUX,1,Informatica,1,Tecnologia,2019,11,23,23/11/2019,1,350,347
+66,6,Jose Santos,5,Elisangela Ines,4,Paris,7,Celular 64GB,5,SAMSUNG,2,Telefonia,1,Tecnologia,2020,9,16,16/09/2020,3,52.9,699
+67,4,Ana Claudia,6,Rodrigo Faro,3,New York,14,Classificador,9,AVON,2,Telefonia,4,Casa e Decoracao,2020,11,17,17/11/2020,3,25,323
+68,5,Daniela,7,Ana Claudia Rossi,5,Tokio,22,Mesa,14,MAGALU,2,Telefonia,2,Papelaria/Cosmetico,2019,11,10,10/11/2019,1,1600,762
+69,4,Ana Claudia,1,Dirceu Matheus,3,New York,15,Baton,10,BOTICARIO,1,Informatica,4,Casa e Decoracao,2020,3,19,19/03/2020,1,98.5,934
+70,5,Daniela,2,Fabiana Arantes,1,Sao Paulo,21,Microondas,14,MAGALU,1,Informatica,1,Tecnologia,2019,4,11,11/04/2019,1,2100,1326
+71,1,Joao Vitor,9,Leandro Pupo,3,New York,22,Mesa,14,MAGALU,1,Informatica,1,Tecnologia,2020,4,15,15/04/2020,3,1600,1494
+72,3,Luciana Pereira,7,Ana Claudia Rossi,5,Tokio,22,Mesa,14,MAGALU,6,Eletrodomestico,4,Casa e Decoracao,2020,1,15,15/01/2020,1,1600,234
+73,5,Daniela,3,Abilio Bio,1,Sao Paulo,19,Fogao,13,BRASTEMP,3,Papelaria,3,Eletro Eletronico,2020,2,8,08/02/2020,2,1500,1327
+74,1,Joao Vitor,5,Elisangela Ines,5,Tokio,3,Teclado,1,APPLE,2,Telefonia,1,Tecnologia,2020,7,1,01/07/2020,1,342.09,1437
+75,1,Joao Vitor,5,Elisangela Ines,4,Paris,4,Monitor,4,IBM,4,Cosmetico,3,Eletro Eletronico,2020,1,7,07/01/2020,3,1300,933
+76,6,Jose Santos,6,Rodrigo Faro,2,Salvador,3,Teclado,1,APPLE,2,Telefonia,2,Papelaria/Cosmetico,2020,11,8,08/11/2020,2,342.09,707
+77,6,Jose Santos,3,Abilio Bio,2,Salvador,3,Teclado,1,APPLE,2,Telefonia,3,Eletro Eletronico,2020,9,16,16/09/2020,3,342.09,829
+78,2,Mariana Pereira,5,Elisangela Ines,1,Sao Paulo,7,Celular 64GB,5,SAMSUNG,6,Eletrodomestico,1,Tecnologia,2020,6,2,02/06/2020,3,52.9,947
+79,4,Ana Claudia,4,Mario Menezes,2,Salvador,8,Telefone Sem Fio,5,SAMSUNG,5,Eletronico,4,Casa e Decoracao,2019,4,25,25/04/2019,3,875,14
+80,5,Daniela,3,Abilio Bio,3,New York,22,Mesa,14,MAGALU,4,Cosmetico,4,Casa e Decoracao,2019,1,11,11/01/2019,2,1600,79
+81,3,Luciana Pereira,6,Rodrigo Faro,2,Salvador,11,Caneta,8,FABER CASTELL,4,Cosmetico,4,Casa e Decoracao,2020,10,2,02/10/2020,3,.5,827
+82,4,Ana Claudia,10,Leandro Nunes,2,Salvador,14,Classificador,9,AVON,5,Eletronico,2,Papelaria/Cosmetico,2019,12,1,01/12/2019,3,25,556
+83,5,Daniela,3,Abilio Bio,5,Tokio,4,Monitor,4,IBM,2,Telefonia,1,Tecnologia,2019,5,26,26/05/2019,3,1300,623
+84,1,Joao Vitor,8,Marcia Raso,2,Salvador,21,Microondas,14,MAGALU,6,Eletrodomestico,2,Papelaria/Cosmetico,2020,2,5,05/02/2020,1,2100,36
+85,5,Daniela,5,Elisangela Ines,4,Paris,18,Xbox,12,ELETROLUX,6,Eletrodomestico,1,Tecnologia,2020,3,5,05/03/2020,2,850,536
+86,3,Luciana Pereira,9,Leandro Pupo,3,New York,2,Mouse,2,MICROSOFT,2,Telefonia,3,Eletro Eletronico,2020,10,19,19/10/2020,3,25.9,936
+87,4,Ana Claudia,12,Fabio Lopes,4,Paris,21,Microondas,14,MAGALU,3,Papelaria,3,Eletro Eletronico,2019,12,16,16/12/2019,3,2100,37
+88,6,Jose Santos,2,Fabiana Arantes,4,Paris,22,Mesa,14,MAGALU,6,Eletrodomestico,3,Eletro Eletronico,2019,1,5,05/01/2019,2,1600,710
+89,5,Daniela,12,Fabio Lopes,3,New York,2,Mouse,2,MICROSOFT,2,Telefonia,3,Eletro Eletronico,2019,2,6,06/02/2019,1,25.9,13
+90,1,Joao Vitor,2,Fabiana Arantes,3,New York,15,Baton,10,BOTICARIO,1,Informatica,3,Eletro Eletronico,2020,3,11,11/03/2020,3,98.5,754
+91,1,Joao Vitor,2,Fabiana Arantes,1,Sao Paulo,2,Mouse,2,MICROSOFT,5,Eletronico,4,Casa e Decoracao,2020,10,3,03/10/2020,1,25.9,1259
+92,2,Mariana Pereira,4,Mario Menezes,4,Paris,16,Perfume,11,PHILIPS,3,Papelaria,2,Papelaria/Cosmetico,2019,3,21,21/03/2019,3,135,141
+93,5,Daniela,4,Mario Menezes,3,New York,3,Teclado,1,APPLE,1,Informatica,1,Tecnologia,2019,7,3,03/07/2019,3,342.09,1322
+94,5,Daniela,3,Abilio Bio,2,Salvador,8,Telefone Sem Fio,5,SAMSUNG,5,Eletronico,1,Tecnologia,2019,7,24,24/07/2019,3,875,969
+95,2,Mariana Pereira,7,Ana Claudia Rossi,2,Salvador,3,Teclado,1,APPLE,5,Eletronico,3,Eletro Eletronico,2019,4,1,01/04/2019,2,342.09,683
+96,2,Mariana Pereira,3,Abilio Bio,4,Paris,14,Classificador,9,AVON,2,Telefonia,1,Tecnologia,2020,5,2,02/05/2020,2,25,927
+97,6,Jose Santos,2,Fabiana Arantes,1,Sao Paulo,15,Baton,10,BOTICARIO,2,Telefonia,4,Casa e Decoracao,2019,8,12,12/08/2019,3,98.5,1493
+98,5,Daniela,12,Fabio Lopes,3,New York,6,Notebook,5,SAMSUNG,2,Telefonia,3,Eletro Eletronico,2019,12,19,19/12/2019,1,550,40
+99,2,Mariana Pereira,7,Ana Claudia Rossi,5,Tokio,10,Papel A4,8,FABER CASTELL,4,Cosmetico,3,Eletro Eletronico,2019,4,15,15/04/2019,1,2.15,952
+100,1,Joao Vitor,4,Mario Menezes,2,Salvador,3,Teclado,1,APPLE,5,Eletronico,3,Eletro Eletronico,2019,2,1,01/02/2019,1,342.09,252
+101,2,Mariana Pereira,5,Elisangela Ines,4,Paris,9,Celular 128Gb,8,FABER CASTELL,6,Eletrodomestico,1,Tecnologia,2020,1,10,10/01/2020,3,12.25,197
+102,5,Daniela,3,Abilio Bio,4,Paris,19,Fogao,13,BRASTEMP,3,Papelaria,2,Papelaria/Cosmetico,2020,11,23,23/11/2020,2,1500,422
+103,4,Ana Claudia,11,Nizam Omar,3,New York,15,Baton,10,BOTICARIO,5,Eletronico,2,Papelaria/Cosmetico,2020,3,21,21/03/2020,2,98.5,81
+104,6,Jose Santos,6,Rodrigo Faro,4,Paris,13,Estojo,7,TILIBRA,5,Eletronico,1,Tecnologia,2019,10,3,03/10/2019,1,3.2,1428
+105,3,Luciana Pereira,4,Mario Menezes,3,New York,12,Borracha,7,TILIBRA,2,Telefonia,4,Casa e Decoracao,2020,5,26,26/05/2020,3,5.3,286
+106,1,Joao Vitor,7,Ana Claudia Rossi,3,New York,11,Caneta,8,FABER CASTELL,5,Eletronico,1,Tecnologia,2019,3,23,23/03/2019,2,.5,1487
+107,1,Joao Vitor,9,Leandro Pupo,3,New York,16,Perfume,11,PHILIPS,2,Telefonia,1,Tecnologia,2020,10,16,16/10/2020,1,135,308
+108,1,Joao Vitor,9,Leandro Pupo,2,Salvador,20,Geladeira,12,ELETROLUX,2,Telefonia,1,Tecnologia,2020,4,27,27/04/2020,2,350,257
+109,6,Jose Santos,10,Leandro Nunes,3,New York,17,Aparelho de Barbear Eletrico,2,MICROSOFT,2,Telefonia,2,Papelaria/Cosmetico,2019,8,25,25/08/2019,1,1075,1293
+110,2,Mariana Pereira,7,Ana Claudia Rossi,3,New York,6,Notebook,5,SAMSUNG,5,Eletronico,1,Tecnologia,2019,4,22,22/04/2019,3,550,916
+111,3,Luciana Pereira,2,Fabiana Arantes,1,Sao Paulo,10,Papel A4,8,FABER CASTELL,2,Telefonia,2,Papelaria/Cosmetico,2020,3,1,01/03/2020,2,2.15,208
+112,5,Daniela,8,Marcia Raso,3,New York,23,Sofá,14,MAGALU,6,Eletrodomestico,2,Papelaria/Cosmetico,2020,1,19,19/01/2020,1,300,177
+113,5,Daniela,7,Ana Claudia Rossi,2,Salvador,10,Papel A4,8,FABER CASTELL,2,Telefonia,2,Papelaria/Cosmetico,2019,9,10,10/09/2019,3,2.15,1386
+114,2,Mariana Pereira,7,Ana Claudia Rossi,4,Paris,19,Fogao,13,BRASTEMP,3,Papelaria,4,Casa e Decoracao,2020,4,19,19/04/2020,1,1500,1391
+115,1,Joao Vitor,3,Abilio Bio,1,Sao Paulo,8,Telefone Sem Fio,5,SAMSUNG,3,Papelaria,1,Tecnologia,2020,6,14,14/06/2020,3,875,657
+116,2,Mariana Pereira,5,Elisangela Ines,4,Paris,2,Mouse,2,MICROSOFT,2,Telefonia,4,Casa e Decoracao,2020,12,24,24/12/2020,2,25.9,710
+117,4,Ana Claudia,3,Abilio Bio,4,Paris,11,Caneta,8,FABER CASTELL,3,Papelaria,3,Eletro Eletronico,2020,12,12,12/12/2020,1,.5,527
+118,2,Mariana Pereira,6,Rodrigo Faro,2,Salvador,14,Classificador,9,AVON,5,Eletronico,1,Tecnologia,2019,11,11,11/11/2019,2,25,418
+119,3,Luciana Pereira,12,Fabio Lopes,4,Paris,2,Mouse,2,MICROSOFT,3,Papelaria,3,Eletro Eletronico,2020,6,24,24/06/2020,2,25.9,622
+120,4,Ana Claudia,4,Mario Menezes,4,Paris,14,Classificador,9,AVON,3,Papelaria,1,Tecnologia,2019,2,19,19/02/2019,3,25,924
+121,5,Daniela,8,Marcia Raso,3,New York,23,Sofá,14,MAGALU,5,Eletronico,4,Casa e Decoracao,2020,9,4,04/09/2020,1,300,100
+122,6,Jose Santos,7,Ana Claudia Rossi,5,Tokio,6,Notebook,5,SAMSUNG,2,Telefonia,4,Casa e Decoracao,2019,11,12,12/11/2019,2,550,349
+123,4,Ana Claudia,11,Nizam Omar,4,Paris,5,Computador,4,IBM,5,Eletronico,3,Eletro Eletronico,2020,11,17,17/11/2020,2,2125.99,214
+124,1,Joao Vitor,10,Leandro Nunes,2,Salvador,22,Mesa,14,MAGALU,2,Telefonia,2,Papelaria/Cosmetico,2020,10,3,03/10/2020,3,1600,435
+125,3,Luciana Pereira,1,Dirceu Matheus,3,New York,1,TV,3,DELL,3,Papelaria,3,Eletro Eletronico,2020,8,19,19/08/2020,1,25.15,49
+126,2,Mariana Pereira,12,Fabio Lopes,2,Salvador,13,Estojo,7,TILIBRA,2,Telefonia,1,Tecnologia,2019,12,10,10/12/2019,3,3.2,1407
+127,6,Jose Santos,11,Nizam Omar,3,New York,16,Perfume,11,PHILIPS,5,Eletronico,3,Eletro Eletronico,2020,5,11,11/05/2020,3,135,743
+128,5,Daniela,2,Fabiana Arantes,2,Salvador,11,Caneta,8,FABER CASTELL,3,Papelaria,1,Tecnologia,2019,12,15,15/12/2019,1,.5,1435
+129,3,Luciana Pereira,7,Ana Claudia Rossi,3,New York,14,Classificador,9,AVON,5,Eletronico,3,Eletro Eletronico,2020,12,20,20/12/2020,1,25,1348
+130,5,Daniela,3,Abilio Bio,1,Sao Paulo,8,Telefone Sem Fio,5,SAMSUNG,4,Cosmetico,3,Eletro Eletronico,2019,8,24,24/08/2019,3,875,1199
+131,1,Joao Vitor,4,Mario Menezes,3,New York,3,Teclado,1,APPLE,2,Telefonia,2,Papelaria/Cosmetico,2020,11,19,19/11/2020,1,342.09,115
+132,5,Daniela,9,Leandro Pupo,5,Tokio,17,Aparelho de Barbear Eletrico,2,MICROSOFT,6,Eletrodomestico,2,Papelaria/Cosmetico,2019,5,10,10/05/2019,2,1075,432
+133,5,Daniela,6,Rodrigo Faro,2,Salvador,3,Teclado,1,APPLE,5,Eletronico,4,Casa e Decoracao,2019,1,13,13/01/2019,1,342.09,1134
+134,1,Joao Vitor,11,Nizam Omar,2,Salvador,8,Telefone Sem Fio,5,SAMSUNG,3,Papelaria,3,Eletro Eletronico,2019,2,8,08/02/2019,1,875,559
+135,4,Ana Claudia,11,Nizam Omar,5,Tokio,11,Caneta,8,FABER CASTELL,4,Cosmetico,3,Eletro Eletronico,2020,1,2,02/01/2020,3,.5,695
+136,2,Mariana Pereira,10,Leandro Nunes,4,Paris,15,Baton,10,BOTICARIO,3,Papelaria,3,Eletro Eletronico,2019,8,20,20/08/2019,1,98.5,1024
+137,1,Joao Vitor,11,Nizam Omar,2,Salvador,16,Perfume,11,PHILIPS,1,Informatica,4,Casa e Decoracao,2020,5,2,02/05/2020,1,135,645
+138,1,Joao Vitor,3,Abilio Bio,5,Tokio,18,Xbox,12,ELETROLUX,2,Telefonia,1,Tecnologia,2019,6,20,20/06/2019,3,850,240
+139,1,Joao Vitor,1,Dirceu Matheus,2,Salvador,2,Mouse,2,MICROSOFT,3,Papelaria,4,Casa e Decoracao,2020,2,4,04/02/2020,3,25.9,1357
+140,4,Ana Claudia,12,Fabio Lopes,1,Sao Paulo,23,Sofá,14,MAGALU,3,Papelaria,4,Casa e Decoracao,2019,5,16,16/05/2019,1,300,291
+141,5,Daniela,6,Rodrigo Faro,2,Salvador,3,Teclado,1,APPLE,1,Informatica,3,Eletro Eletronico,2019,8,22,22/08/2019,2,342.09,1360
+142,1,Joao Vitor,8,Marcia Raso,5,Tokio,20,Geladeira,12,ELETROLUX,1,Informatica,1,Tecnologia,2020,1,9,09/01/2020,1,350,155
+143,4,Ana Claudia,1,Dirceu Matheus,4,Paris,12,Borracha,7,TILIBRA,3,Papelaria,4,Casa e Decoracao,2020,8,22,22/08/2020,2,5.3,947
+144,1,Joao Vitor,5,Elisangela Ines,1,Sao Paulo,16,Perfume,11,PHILIPS,4,Cosmetico,2,Papelaria/Cosmetico,2019,8,16,16/08/2019,1,135,255
+145,3,Luciana Pereira,10,Leandro Nunes,3,New York,8,Telefone Sem Fio,5,SAMSUNG,4,Cosmetico,4,Casa e Decoracao,2020,12,21,21/12/2020,2,875,21
+146,1,Joao Vitor,3,Abilio Bio,1,Sao Paulo,20,Geladeira,12,ELETROLUX,3,Papelaria,2,Papelaria/Cosmetico,2020,11,4,04/11/2020,1,350,140
+147,5,Daniela,10,Leandro Nunes,1,Sao Paulo,15,Baton,10,BOTICARIO,4,Cosmetico,1,Tecnologia,2019,4,27,27/04/2019,2,98.5,1488
+148,5,Daniela,6,Rodrigo Faro,1,Sao Paulo,1,TV,3,DELL,5,Eletronico,4,Casa e Decoracao,2019,9,11,11/09/2019,2,25.15,71
+149,3,Luciana Pereira,10,Leandro Nunes,4,Paris,10,Papel A4,8,FABER CASTELL,1,Informatica,1,Tecnologia,2020,2,14,14/02/2020,3,2.15,808
+150,3,Luciana Pereira,2,Fabiana Arantes,2,Salvador,4,Monitor,4,IBM,4,Cosmetico,3,Eletro Eletronico,2020,8,15,15/08/2020,3,1300,225
+151,5,Daniela,7,Ana Claudia Rossi,5,Tokio,10,Papel A4,8,FABER CASTELL,2,Telefonia,4,Casa e Decoracao,2019,8,23,23/08/2019,2,2.15,914
+152,6,Jose Santos,11,Nizam Omar,5,Tokio,7,Celular 64GB,5,SAMSUNG,5,Eletronico,1,Tecnologia,2019,9,16,16/09/2019,3,52.9,180
+153,1,Joao Vitor,3,Abilio Bio,3,New York,4,Monitor,4,IBM,2,Telefonia,3,Eletro Eletronico,2020,2,16,16/02/2020,1,1300,959
+154,5,Daniela,6,Rodrigo Faro,1,Sao Paulo,5,Computador,4,IBM,6,Eletrodomestico,1,Tecnologia,2019,8,19,19/08/2019,2,2125.99,1059
+155,2,Mariana Pereira,12,Fabio Lopes,2,Salvador,3,Teclado,1,APPLE,5,Eletronico,2,Papelaria/Cosmetico,2019,11,5,05/11/2019,3,342.09,569
+156,1,Joao Vitor,12,Fabio Lopes,3,New York,2,Mouse,2,MICROSOFT,6,Eletrodomestico,4,Casa e Decoracao,2020,9,6,06/09/2020,1,25.9,1250
+157,5,Daniela,10,Leandro Nunes,4,Paris,18,Xbox,12,ELETROLUX,2,Telefonia,3,Eletro Eletronico,2019,11,15,15/11/2019,1,850,1094
+158,4,Ana Claudia,11,Nizam Omar,5,Tokio,14,Classificador,9,AVON,6,Eletrodomestico,1,Tecnologia,2020,12,5,05/12/2020,2,25,1005
+159,6,Jose Santos,9,Leandro Pupo,2,Salvador,12,Borracha,7,TILIBRA,4,Cosmetico,4,Casa e Decoracao,2020,3,25,25/03/2020,3,5.3,710
+160,5,Daniela,9,Leandro Pupo,3,New York,7,Celular 64GB,5,SAMSUNG,2,Telefonia,1,Tecnologia,2020,11,12,12/11/2020,1,52.9,136
+161,4,Ana Claudia,12,Fabio Lopes,1,Sao Paulo,22,Mesa,14,MAGALU,3,Papelaria,2,Papelaria/Cosmetico,2020,3,17,17/03/2020,3,1600,1079
+162,1,Joao Vitor,2,Fabiana Arantes,3,New York,18,Xbox,12,ELETROLUX,6,Eletrodomestico,1,Tecnologia,2020,8,22,22/08/2020,2,850,1267
+163,6,Jose Santos,12,Fabio Lopes,1,Sao Paulo,14,Classificador,9,AVON,3,Papelaria,3,Eletro Eletronico,2020,9,24,24/09/2020,1,25,746
+164,6,Jose Santos,8,Marcia Raso,4,Paris,3,Teclado,1,APPLE,4,Cosmetico,3,Eletro Eletronico,2019,4,28,28/04/2019,1,342.09,99
+165,3,Luciana Pereira,12,Fabio Lopes,5,Tokio,1,TV,3,DELL,6,Eletrodomestico,1,Tecnologia,2019,11,27,27/11/2019,1,25.15,1192
+166,1,Joao Vitor,3,Abilio Bio,5,Tokio,8,Telefone Sem Fio,5,SAMSUNG,1,Informatica,4,Casa e Decoracao,2020,6,4,04/06/2020,1,875,377
+167,3,Luciana Pereira,3,Abilio Bio,2,Salvador,5,Computador,4,IBM,1,Informatica,4,Casa e Decoracao,2020,1,27,27/01/2020,1,2125.99,359
+168,3,Luciana Pereira,1,Dirceu Matheus,1,Sao Paulo,17,Aparelho de Barbear Eletrico,2,MICROSOFT,4,Cosmetico,2,Papelaria/Cosmetico,2020,9,12,12/09/2020,2,1075,1429
+169,1,Joao Vitor,8,Marcia Raso,3,New York,13,Estojo,7,TILIBRA,2,Telefonia,1,Tecnologia,2020,11,22,22/11/2020,2,3.2,1194
+170,2,Mariana Pereira,9,Leandro Pupo,5,Tokio,22,Mesa,14,MAGALU,1,Informatica,3,Eletro Eletronico,2020,5,19,19/05/2020,1,1600,768
+171,3,Luciana Pereira,7,Ana Claudia Rossi,2,Salvador,9,Celular 128Gb,8,FABER CASTELL,5,Eletronico,1,Tecnologia,2020,4,3,03/04/2020,3,12.25,268
+172,4,Ana Claudia,7,Ana Claudia Rossi,4,Paris,2,Mouse,2,MICROSOFT,2,Telefonia,4,Casa e Decoracao,2020,10,26,26/10/2020,2,25.9,1091
+173,1,Joao Vitor,11,Nizam Omar,4,Paris,19,Fogao,13,BRASTEMP,2,Telefonia,1,Tecnologia,2019,12,11,11/12/2019,1,1500,1113
+174,4,Ana Claudia,6,Rodrigo Faro,2,Salvador,19,Fogao,13,BRASTEMP,3,Papelaria,3,Eletro Eletronico,2019,7,27,27/07/2019,3,1500,1253
+175,6,Jose Santos,1,Dirceu Matheus,2,Salvador,1,TV,3,DELL,3,Papelaria,2,Papelaria/Cosmetico,2019,2,10,10/02/2019,1,25.15,1478
+176,5,Daniela,2,Fabiana Arantes,1,Sao Paulo,13,Estojo,7,TILIBRA,1,Informatica,1,Tecnologia,2019,12,10,10/12/2019,2,3.2,1394
+177,3,Luciana Pereira,2,Fabiana Arantes,5,Tokio,16,Perfume,11,PHILIPS,2,Telefonia,2,Papelaria/Cosmetico,2019,3,25,25/03/2019,3,135,884
+178,3,Luciana Pereira,8,Marcia Raso,1,Sao Paulo,18,Xbox,12,ELETROLUX,5,Eletronico,3,Eletro Eletronico,2019,2,9,09/02/2019,2,850,718
+179,6,Jose Santos,6,Rodrigo Faro,1,Sao Paulo,23,Sofá,14,MAGALU,2,Telefonia,4,Casa e Decoracao,2020,10,20,20/10/2020,1,300,883
+180,6,Jose Santos,6,Rodrigo Faro,3,New York,9,Celular 128Gb,8,FABER CASTELL,1,Informatica,4,Casa e Decoracao,2020,4,22,22/04/2020,3,12.25,426
+181,6,Jose Santos,11,Nizam Omar,3,New York,7,Celular 64GB,5,SAMSUNG,5,Eletronico,2,Papelaria/Cosmetico,2020,7,26,26/07/2020,2,52.9,241
+182,5,Daniela,5,Elisangela Ines,5,Tokio,20,Geladeira,12,ELETROLUX,5,Eletronico,3,Eletro Eletronico,2020,11,17,17/11/2020,3,350,761
+183,5,Daniela,1,Dirceu Matheus,3,New York,18,Xbox,12,ELETROLUX,1,Informatica,2,Papelaria/Cosmetico,2020,4,16,16/04/2020,2,850,633
+184,4,Ana Claudia,5,Elisangela Ines,3,New York,10,Papel A4,8,FABER CASTELL,3,Papelaria,4,Casa e Decoracao,2019,3,20,20/03/2019,1,2.15,137
+185,3,Luciana Pereira,8,Marcia Raso,2,Salvador,17,Aparelho de Barbear Eletrico,2,MICROSOFT,4,Cosmetico,4,Casa e Decoracao,2020,4,21,21/04/2020,1,1075,1171
+186,5,Daniela,8,Marcia Raso,4,Paris,4,Monitor,4,IBM,4,Cosmetico,2,Papelaria/Cosmetico,2020,1,3,03/01/2020,3,1300,1011
+187,1,Joao Vitor,4,Mario Menezes,4,Paris,4,Monitor,4,IBM,6,Eletrodomestico,2,Papelaria/Cosmetico,2019,7,13,13/07/2019,3,1300,1390
+188,6,Jose Santos,11,Nizam Omar,1,Sao Paulo,1,TV,3,DELL,1,Informatica,4,Casa e Decoracao,2019,8,22,22/08/2019,3,25.15,401
+189,5,Daniela,3,Abilio Bio,2,Salvador,18,Xbox,12,ELETROLUX,5,Eletronico,1,Tecnologia,2020,8,17,17/08/2020,3,850,904
+190,6,Jose Santos,12,Fabio Lopes,1,Sao Paulo,4,Monitor,4,IBM,2,Telefonia,2,Papelaria/Cosmetico,2020,7,19,19/07/2020,2,1300,879
+191,3,Luciana Pereira,11,Nizam Omar,1,Sao Paulo,20,Geladeira,12,ELETROLUX,6,Eletrodomestico,2,Papelaria/Cosmetico,2020,6,14,14/06/2020,1,350,1398
+192,5,Daniela,5,Elisangela Ines,2,Salvador,11,Caneta,8,FABER CASTELL,5,Eletronico,1,Tecnologia,2020,1,5,05/01/2020,2,.5,1236
+193,5,Daniela,11,Nizam Omar,2,Salvador,5,Computador,4,IBM,1,Informatica,1,Tecnologia,2019,7,21,21/07/2019,2,2125.99,1083
+194,3,Luciana Pereira,6,Rodrigo Faro,4,Paris,12,Borracha,7,TILIBRA,6,Eletrodomestico,3,Eletro Eletronico,2019,4,1,01/04/2019,2,5.3,62
+195,5,Daniela,4,Mario Menezes,5,Tokio,9,Celular 128Gb,8,FABER CASTELL,1,Informatica,3,Eletro Eletronico,2020,10,2,02/10/2020,1,12.25,875
+196,4,Ana Claudia,1,Dirceu Matheus,3,New York,16,Perfume,11,PHILIPS,4,Cosmetico,4,Casa e Decoracao,2020,6,28,28/06/2020,1,135,1250
+197,5,Daniela,10,Leandro Nunes,1,Sao Paulo,6,Notebook,5,SAMSUNG,3,Papelaria,2,Papelaria/Cosmetico,2020,4,17,17/04/2020,3,550,83
+198,5,Daniela,7,Ana Claudia Rossi,5,Tokio,11,Caneta,8,FABER CASTELL,5,Eletronico,4,Casa e Decoracao,2020,9,5,05/09/2020,1,.5,272
+199,1,Joao Vitor,12,Fabio Lopes,2,Salvador,13,Estojo,7,TILIBRA,5,Eletronico,3,Eletro Eletronico,2019,3,16,16/03/2019,1,3.2,169
+200,1,Joao Vitor,7,Ana Claudia Rossi,5,Tokio,9,Celular 128Gb,8,FABER CASTELL,6,Eletrodomestico,1,Tecnologia,2020,12,17,17/12/2020,2,12.25,1392
+201,1,Joao Vitor,11,Nizam Omar,5,Tokio,4,Monitor,4,IBM,3,Papelaria,2,Papelaria/Cosmetico,2019,1,21,21/01/2019,3,1300,1093
+202,1,Joao Vitor,9,Leandro Pupo,2,Salvador,23,Sofá,14,MAGALU,3,Papelaria,2,Papelaria/Cosmetico,2020,12,6,06/12/2020,1,300,1343
+203,3,Luciana Pereira,12,Fabio Lopes,3,New York,12,Borracha,7,TILIBRA,1,Informatica,2,Papelaria/Cosmetico,2020,11,18,18/11/2020,3,5.3,1238
+204,2,Mariana Pereira,3,Abilio Bio,4,Paris,23,Sofá,14,MAGALU,4,Cosmetico,1,Tecnologia,2019,12,9,09/12/2019,1,300,1157
+205,4,Ana Claudia,3,Abilio Bio,3,New York,20,Geladeira,12,ELETROLUX,3,Papelaria,2,Papelaria/Cosmetico,2019,12,21,21/12/2019,2,350,867
+206,6,Jose Santos,11,Nizam Omar,5,Tokio,10,Papel A4,8,FABER CASTELL,4,Cosmetico,2,Papelaria/Cosmetico,2020,5,3,03/05/2020,1,2.15,1338
+207,3,Luciana Pereira,2,Fabiana Arantes,4,Paris,17,Aparelho de Barbear Eletrico,2,MICROSOFT,3,Papelaria,3,Eletro Eletronico,2020,10,24,24/10/2020,3,1075,766
+208,2,Mariana Pereira,9,Leandro Pupo,1,Sao Paulo,2,Mouse,2,MICROSOFT,3,Papelaria,3,Eletro Eletronico,2019,12,13,13/12/2019,1,25.9,219
+209,5,Daniela,3,Abilio Bio,4,Paris,22,Mesa,14,MAGALU,3,Papelaria,1,Tecnologia,2019,5,27,27/05/2019,2,1600,363
+210,6,Jose Santos,1,Dirceu Matheus,4,Paris,11,Caneta,8,FABER CASTELL,1,Informatica,1,Tecnologia,2019,8,9,09/08/2019,3,.5,4
+211,5,Daniela,12,Fabio Lopes,4,Paris,11,Caneta,8,FABER CASTELL,3,Papelaria,1,Tecnologia,2019,2,1,01/02/2019,1,.5,1283
+212,3,Luciana Pereira,6,Rodrigo Faro,4,Paris,3,Teclado,1,APPLE,2,Telefonia,1,Tecnologia,2020,6,16,16/06/2020,2,342.09,510
+213,2,Mariana Pereira,5,Elisangela Ines,2,Salvador,10,Papel A4,8,FABER CASTELL,1,Informatica,2,Papelaria/Cosmetico,2019,11,22,22/11/2019,3,2.15,4
+214,2,Mariana Pereira,1,Dirceu Matheus,1,Sao Paulo,2,Mouse,2,MICROSOFT,2,Telefonia,4,Casa e Decoracao,2019,2,17,17/02/2019,1,25.9,187
+215,4,Ana Claudia,11,Nizam Omar,1,Sao Paulo,21,Microondas,14,MAGALU,6,Eletrodomestico,1,Tecnologia,2019,9,21,21/09/2019,1,2100,79
+216,3,Luciana Pereira,9,Leandro Pupo,2,Salvador,21,Microondas,14,MAGALU,4,Cosmetico,2,Papelaria/Cosmetico,2020,5,16,16/05/2020,2,2100,1037
+217,1,Joao Vitor,8,Marcia Raso,1,Sao Paulo,21,Microondas,14,MAGALU,1,Informatica,2,Papelaria/Cosmetico,2019,11,24,24/11/2019,1,2100,132
+218,6,Jose Santos,10,Leandro Nunes,2,Salvador,13,Estojo,7,TILIBRA,2,Telefonia,3,Eletro Eletronico,2019,9,28,28/09/2019,2,3.2,713
+219,3,Luciana Pereira,9,Leandro Pupo,1,Sao Paulo,18,Xbox,12,ELETROLUX,2,Telefonia,2,Papelaria/Cosmetico,2019,2,4,04/02/2019,1,850,527
+220,1,Joao Vitor,1,Dirceu Matheus,5,Tokio,18,Xbox,12,ELETROLUX,3,Papelaria,2,Papelaria/Cosmetico,2020,6,23,23/06/2020,1,850,968
+221,4,Ana Claudia,9,Leandro Pupo,1,Sao Paulo,20,Geladeira,12,ELETROLUX,3,Papelaria,3,Eletro Eletronico,2020,12,23,23/12/2020,2,350,155
+222,4,Ana Claudia,11,Nizam Omar,4,Paris,8,Telefone Sem Fio,5,SAMSUNG,2,Telefonia,2,Papelaria/Cosmetico,2019,2,15,15/02/2019,3,875,30
+223,1,Joao Vitor,9,Leandro Pupo,2,Salvador,4,Monitor,4,IBM,4,Cosmetico,2,Papelaria/Cosmetico,2019,6,3,03/06/2019,2,1300,1463
+224,3,Luciana Pereira,7,Ana Claudia Rossi,2,Salvador,13,Estojo,7,TILIBRA,4,Cosmetico,1,Tecnologia,2019,2,6,06/02/2019,2,3.2,1231
+225,5,Daniela,12,Fabio Lopes,3,New York,18,Xbox,12,ELETROLUX,2,Telefonia,4,Casa e Decoracao,2019,6,19,19/06/2019,2,850,1077
+226,5,Daniela,5,Elisangela Ines,2,Salvador,6,Notebook,5,SAMSUNG,3,Papelaria,2,Papelaria/Cosmetico,2020,1,10,10/01/2020,1,550,922
+227,4,Ana Claudia,6,Rodrigo Faro,4,Paris,15,Baton,10,BOTICARIO,1,Informatica,3,Eletro Eletronico,2020,2,13,13/02/2020,3,98.5,779
+228,3,Luciana Pereira,4,Mario Menezes,3,New York,10,Papel A4,8,FABER CASTELL,3,Papelaria,2,Papelaria/Cosmetico,2019,4,27,27/04/2019,3,2.15,1401
+229,4,Ana Claudia,2,Fabiana Arantes,2,Salvador,5,Computador,4,IBM,4,Cosmetico,1,Tecnologia,2019,3,7,07/03/2019,2,2125.99,381
+230,2,Mariana Pereira,9,Leandro Pupo,1,Sao Paulo,22,Mesa,14,MAGALU,6,Eletrodomestico,4,Casa e Decoracao,2019,6,12,12/06/2019,1,1600,34
+231,3,Luciana Pereira,3,Abilio Bio,2,Salvador,3,Teclado,1,APPLE,6,Eletrodomestico,4,Casa e Decoracao,2020,11,4,04/11/2020,3,342.09,1483
+232,3,Luciana Pereira,5,Elisangela Ines,4,Paris,11,Caneta,8,FABER CASTELL,3,Papelaria,4,Casa e Decoracao,2020,9,13,13/09/2020,3,.5,1057
+233,4,Ana Claudia,3,Abilio Bio,1,Sao Paulo,3,Teclado,1,APPLE,1,Informatica,1,Tecnologia,2020,7,22,22/07/2020,1,342.09,240
+234,3,Luciana Pereira,1,Dirceu Matheus,2,Salvador,7,Celular 64GB,5,SAMSUNG,3,Papelaria,1,Tecnologia,2020,3,20,20/03/2020,1,52.9,837
+235,3,Luciana Pereira,6,Rodrigo Faro,5,Tokio,13,Estojo,7,TILIBRA,3,Papelaria,3,Eletro Eletronico,2020,1,28,28/01/2020,3,3.2,1346
+236,6,Jose Santos,12,Fabio Lopes,4,Paris,6,Notebook,5,SAMSUNG,6,Eletrodomestico,3,Eletro Eletronico,2019,3,15,15/03/2019,2,550,75
+237,3,Luciana Pereira,10,Leandro Nunes,3,New York,4,Monitor,4,IBM,5,Eletronico,2,Papelaria/Cosmetico,2020,7,2,02/07/2020,3,1300,1345
+238,1,Joao Vitor,12,Fabio Lopes,4,Paris,8,Telefone Sem Fio,5,SAMSUNG,6,Eletrodomestico,4,Casa e Decoracao,2020,12,9,09/12/2020,1,875,637
+239,4,Ana Claudia,7,Ana Claudia Rossi,3,New York,21,Microondas,14,MAGALU,4,Cosmetico,3,Eletro Eletronico,2020,5,10,10/05/2020,2,2100,67
+240,4,Ana Claudia,11,Nizam Omar,5,Tokio,13,Estojo,7,TILIBRA,4,Cosmetico,2,Papelaria/Cosmetico,2020,5,9,09/05/2020,2,3.2,1478
+241,3,Luciana Pereira,6,Rodrigo Faro,2,Salvador,13,Estojo,7,TILIBRA,6,Eletrodomestico,4,Casa e Decoracao,2020,7,4,04/07/2020,1,3.2,40
+242,6,Jose Santos,12,Fabio Lopes,1,Sao Paulo,6,Notebook,5,SAMSUNG,5,Eletronico,2,Papelaria/Cosmetico,2020,6,13,13/06/2020,2,550,1461
+243,2,Mariana Pereira,8,Marcia Raso,3,New York,23,Sofá,14,MAGALU,2,Telefonia,1,Tecnologia,2020,12,16,16/12/2020,3,300,557
+244,3,Luciana Pereira,7,Ana Claudia Rossi,5,Tokio,1,TV,3,DELL,4,Cosmetico,3,Eletro Eletronico,2019,7,4,04/07/2019,1,25.15,209
+245,3,Luciana Pereira,8,Marcia Raso,2,Salvador,16,Perfume,11,PHILIPS,2,Telefonia,4,Casa e Decoracao,2019,5,27,27/05/2019,2,135,1209
+246,4,Ana Claudia,10,Leandro Nunes,3,New York,17,Aparelho de Barbear Eletrico,2,MICROSOFT,6,Eletrodomestico,3,Eletro Eletronico,2019,7,9,09/07/2019,1,1075,350
+247,4,Ana Claudia,8,Marcia Raso,4,Paris,18,Xbox,12,ELETROLUX,1,Informatica,4,Casa e Decoracao,2020,6,26,26/06/2020,2,850,37
+248,6,Jose Santos,8,Marcia Raso,3,New York,22,Mesa,14,MAGALU,1,Informatica,4,Casa e Decoracao,2020,12,8,08/12/2020,1,1600,806
+249,3,Luciana Pereira,2,Fabiana Arantes,3,New York,5,Computador,4,IBM,1,Informatica,4,Casa e Decoracao,2019,9,20,20/09/2019,3,2125.99,364
+250,4,Ana Claudia,1,Dirceu Matheus,3,New York,10,Papel A4,8,FABER CASTELL,4,Cosmetico,3,Eletro Eletronico,2019,12,25,25/12/2019,1,2.15,157
+251,1,Joao Vitor,2,Fabiana Arantes,3,New York,12,Borracha,7,TILIBRA,4,Cosmetico,3,Eletro Eletronico,2019,12,20,20/12/2019,1,5.3,209
+252,5,Daniela,5,Elisangela Ines,1,Sao Paulo,22,Mesa,14,MAGALU,5,Eletronico,1,Tecnologia,2020,2,21,21/02/2020,1,1600,277
+253,3,Luciana Pereira,3,Abilio Bio,4,Paris,6,Notebook,5,SAMSUNG,6,Eletrodomestico,1,Tecnologia,2019,8,22,22/08/2019,2,550,875
+254,4,Ana Claudia,1,Dirceu Matheus,3,New York,7,Celular 64GB,5,SAMSUNG,4,Cosmetico,3,Eletro Eletronico,2019,1,24,24/01/2019,3,52.9,373
+255,6,Jose Santos,5,Elisangela Ines,3,New York,16,Perfume,11,PHILIPS,1,Informatica,3,Eletro Eletronico,2019,8,9,09/08/2019,2,135,39
+256,4,Ana Claudia,6,Rodrigo Faro,4,Paris,14,Classificador,9,AVON,5,Eletronico,4,Casa e Decoracao,2020,3,8,08/03/2020,3,25,1292
+257,1,Joao Vitor,5,Elisangela Ines,4,Paris,6,Notebook,5,SAMSUNG,6,Eletrodomestico,4,Casa e Decoracao,2020,4,8,08/04/2020,3,550,595
+258,1,Joao Vitor,12,Fabio Lopes,2,Salvador,21,Microondas,14,MAGALU,3,Papelaria,1,Tecnologia,2020,5,2,02/05/2020,3,2100,168
+259,4,Ana Claudia,7,Ana Claudia Rossi,1,Sao Paulo,3,Teclado,1,APPLE,4,Cosmetico,3,Eletro Eletronico,2019,6,8,08/06/2019,2,342.09,387
+260,6,Jose Santos,2,Fabiana Arantes,4,Paris,6,Notebook,5,SAMSUNG,2,Telefonia,4,Casa e Decoracao,2020,3,19,19/03/2020,1,550,708
+261,3,Luciana Pereira,7,Ana Claudia Rossi,1,Sao Paulo,19,Fogao,13,BRASTEMP,1,Informatica,2,Papelaria/Cosmetico,2020,1,22,22/01/2020,2,1500,139
+262,6,Jose Santos,1,Dirceu Matheus,2,Salvador,17,Aparelho de Barbear Eletrico,2,MICROSOFT,4,Cosmetico,4,Casa e Decoracao,2019,9,28,28/09/2019,2,1075,155
+263,4,Ana Claudia,9,Leandro Pupo,5,Tokio,21,Microondas,14,MAGALU,6,Eletrodomestico,4,Casa e Decoracao,2020,8,11,11/08/2020,1,2100,1321
+264,3,Luciana Pereira,8,Marcia Raso,2,Salvador,20,Geladeira,12,ELETROLUX,4,Cosmetico,1,Tecnologia,2019,11,13,13/11/2019,1,350,289
+265,2,Mariana Pereira,3,Abilio Bio,2,Salvador,1,TV,3,DELL,3,Papelaria,2,Papelaria/Cosmetico,2019,11,2,02/11/2019,3,25.15,1434
+266,3,Luciana Pereira,3,Abilio Bio,3,New York,15,Baton,10,BOTICARIO,2,Telefonia,3,Eletro Eletronico,2019,10,17,17/10/2019,3,98.5,1035
+267,4,Ana Claudia,12,Fabio Lopes,2,Salvador,22,Mesa,14,MAGALU,1,Informatica,1,Tecnologia,2019,8,13,13/08/2019,1,1600,1308
+268,1,Joao Vitor,6,Rodrigo Faro,5,Tokio,6,Notebook,5,SAMSUNG,3,Papelaria,2,Papelaria/Cosmetico,2019,3,21,21/03/2019,2,550,337
+269,5,Daniela,7,Ana Claudia Rossi,2,Salvador,14,Classificador,9,AVON,3,Papelaria,3,Eletro Eletronico,2019,7,2,02/07/2019,1,25,444
+270,6,Jose Santos,6,Rodrigo Faro,3,New York,13,Estojo,7,TILIBRA,3,Papelaria,2,Papelaria/Cosmetico,2020,8,5,05/08/2020,2,3.2,296
+271,1,Joao Vitor,7,Ana Claudia Rossi,2,Salvador,9,Celular 128Gb,8,FABER CASTELL,3,Papelaria,1,Tecnologia,2019,11,5,05/11/2019,2,12.25,427
+272,1,Joao Vitor,11,Nizam Omar,2,Salvador,9,Celular 128Gb,8,FABER CASTELL,4,Cosmetico,1,Tecnologia,2020,7,3,03/07/2020,2,12.25,90
+273,2,Mariana Pereira,4,Mario Menezes,5,Tokio,8,Telefone Sem Fio,5,SAMSUNG,4,Cosmetico,3,Eletro Eletronico,2019,3,3,03/03/2019,1,875,7
+274,6,Jose Santos,10,Leandro Nunes,1,Sao Paulo,7,Celular 64GB,5,SAMSUNG,6,Eletrodomestico,2,Papelaria/Cosmetico,2019,3,13,13/03/2019,2,52.9,792
+275,2,Mariana Pereira,10,Leandro Nunes,2,Salvador,12,Borracha,7,TILIBRA,6,Eletrodomestico,1,Tecnologia,2020,2,3,03/02/2020,3,5.3,1034
+276,2,Mariana Pereira,4,Mario Menezes,3,New York,15,Baton,10,BOTICARIO,5,Eletronico,4,Casa e Decoracao,2020,3,21,21/03/2020,2,98.5,1200
+277,1,Joao Vitor,5,Elisangela Ines,5,Tokio,9,Celular 128Gb,8,FABER CASTELL,5,Eletronico,3,Eletro Eletronico,2020,1,20,20/01/2020,3,12.25,1355
+278,3,Luciana Pereira,11,Nizam Omar,4,Paris,20,Geladeira,12,ELETROLUX,3,Papelaria,1,Tecnologia,2019,3,20,20/03/2019,1,350,102
+279,1,Joao Vitor,11,Nizam Omar,2,Salvador,4,Monitor,4,IBM,1,Informatica,4,Casa e Decoracao,2020,11,22,22/11/2020,3,1300,798
+280,6,Jose Santos,5,Elisangela Ines,3,New York,12,Borracha,7,TILIBRA,1,Informatica,1,Tecnologia,2019,11,26,26/11/2019,2,5.3,1197
+281,4,Ana Claudia,4,Mario Menezes,2,Salvador,15,Baton,10,BOTICARIO,2,Telefonia,2,Papelaria/Cosmetico,2020,6,20,20/06/2020,1,98.5,192
+282,4,Ana Claudia,10,Leandro Nunes,1,Sao Paulo,21,Microondas,14,MAGALU,6,Eletrodomestico,1,Tecnologia,2019,12,7,07/12/2019,2,2100,1286
+283,4,Ana Claudia,1,Dirceu Matheus,1,Sao Paulo,6,Notebook,5,SAMSUNG,6,Eletrodomestico,1,Tecnologia,2019,9,22,22/09/2019,3,550,1332
+284,3,Luciana Pereira,6,Rodrigo Faro,2,Salvador,3,Teclado,1,APPLE,4,Cosmetico,2,Papelaria/Cosmetico,2020,9,3,03/09/2020,1,342.09,1201
+285,2,Mariana Pereira,5,Elisangela Ines,2,Salvador,16,Perfume,11,PHILIPS,5,Eletronico,3,Eletro Eletronico,2020,10,12,12/10/2020,1,135,1463
+286,3,Luciana Pereira,5,Elisangela Ines,1,Sao Paulo,12,Borracha,7,TILIBRA,2,Telefonia,4,Casa e Decoracao,2019,11,23,23/11/2019,2,5.3,469
+287,3,Luciana Pereira,9,Leandro Pupo,3,New York,10,Papel A4,8,FABER CASTELL,2,Telefonia,2,Papelaria/Cosmetico,2020,4,28,28/04/2020,3,2.15,417
+288,6,Jose Santos,12,Fabio Lopes,5,Tokio,15,Baton,10,BOTICARIO,3,Papelaria,1,Tecnologia,2020,6,23,23/06/2020,2,98.5,1028
+289,3,Luciana Pereira,3,Abilio Bio,3,New York,19,Fogao,13,BRASTEMP,4,Cosmetico,1,Tecnologia,2020,11,19,19/11/2020,3,1500,104
+290,6,Jose Santos,10,Leandro Nunes,1,Sao Paulo,18,Xbox,12,ELETROLUX,4,Cosmetico,2,Papelaria/Cosmetico,2020,1,1,01/01/2020,3,850,668
+291,2,Mariana Pereira,11,Nizam Omar,5,Tokio,23,Sofá,14,MAGALU,1,Informatica,2,Papelaria/Cosmetico,2019,7,19,19/07/2019,1,300,1011
+292,5,Daniela,4,Mario Menezes,5,Tokio,1,TV,3,DELL,4,Cosmetico,2,Papelaria/Cosmetico,2020,10,17,17/10/2020,2,25.15,1257
+293,4,Ana Claudia,3,Abilio Bio,5,Tokio,21,Microondas,14,MAGALU,3,Papelaria,1,Tecnologia,2019,2,9,09/02/2019,3,2100,1128
+294,4,Ana Claudia,3,Abilio Bio,3,New York,14,Classificador,9,AVON,6,Eletrodomestico,1,Tecnologia,2019,7,18,18/07/2019,2,25,1009
+295,4,Ana Claudia,4,Mario Menezes,5,Tokio,20,Geladeira,12,ELETROLUX,5,Eletronico,2,Papelaria/Cosmetico,2019,6,9,09/06/2019,2,350,108
+296,4,Ana Claudia,7,Ana Claudia Rossi,2,Salvador,9,Celular 128Gb,8,FABER CASTELL,6,Eletrodomestico,4,Casa e Decoracao,2020,8,8,08/08/2020,2,12.25,163
+297,4,Ana Claudia,8,Marcia Raso,5,Tokio,17,Aparelho de Barbear Eletrico,2,MICROSOFT,6,Eletrodomestico,1,Tecnologia,2019,11,28,28/11/2019,3,1075,955
+298,1,Joao Vitor,11,Nizam Omar,2,Salvador,4,Monitor,4,IBM,4,Cosmetico,2,Papelaria/Cosmetico,2020,1,10,10/01/2020,2,1300,527
+299,3,Luciana Pereira,10,Leandro Nunes,3,New York,22,Mesa,14,MAGALU,3,Papelaria,4,Casa e Decoracao,2019,8,19,19/08/2019,1,1600,1341
+300,6,Jose Santos,10,Leandro Nunes,1,Sao Paulo,21,Microondas,14,MAGALU,3,Papelaria,1,Tecnologia,2019,7,3,03/07/2019,2,2100,469
+301,5,Daniela,10,Leandro Nunes,5,Tokio,18,Xbox,12,ELETROLUX,2,Telefonia,3,Eletro Eletronico,2020,11,23,23/11/2020,2,850,1336
+302,6,Jose Santos,12,Fabio Lopes,2,Salvador,3,Teclado,1,APPLE,3,Papelaria,4,Casa e Decoracao,2019,6,18,18/06/2019,3,342.09,704
+303,3,Luciana Pereira,7,Ana Claudia Rossi,4,Paris,5,Computador,4,IBM,4,Cosmetico,3,Eletro Eletronico,2019,12,19,19/12/2019,3,2125.99,1159
+304,5,Daniela,5,Elisangela Ines,1,Sao Paulo,20,Geladeira,12,ELETROLUX,6,Eletrodomestico,1,Tecnologia,2020,7,20,20/07/2020,3,350,543
+305,3,Luciana Pereira,10,Leandro Nunes,1,Sao Paulo,19,Fogao,13,BRASTEMP,2,Telefonia,1,Tecnologia,2019,11,20,20/11/2019,2,1500,1218
+306,6,Jose Santos,2,Fabiana Arantes,5,Tokio,1,TV,3,DELL,4,Cosmetico,3,Eletro Eletronico,2019,2,8,08/02/2019,3,25.15,811
+307,5,Daniela,10,Leandro Nunes,5,Tokio,19,Fogao,13,BRASTEMP,1,Informatica,2,Papelaria/Cosmetico,2019,5,3,03/05/2019,3,1500,668
+308,2,Mariana Pereira,4,Mario Menezes,3,New York,13,Estojo,7,TILIBRA,5,Eletronico,4,Casa e Decoracao,2020,7,3,03/07/2020,1,3.2,546
+309,4,Ana Claudia,3,Abilio Bio,3,New York,23,Sofá,14,MAGALU,4,Cosmetico,2,Papelaria/Cosmetico,2020,5,26,26/05/2020,3,300,863
+310,3,Luciana Pereira,11,Nizam Omar,4,Paris,21,Microondas,14,MAGALU,2,Telefonia,4,Casa e Decoracao,2020,1,9,09/01/2020,2,2100,799
+311,1,Joao Vitor,2,Fabiana Arantes,1,Sao Paulo,14,Classificador,9,AVON,5,Eletronico,4,Casa e Decoracao,2019,8,26,26/08/2019,2,25,1063
+312,3,Luciana Pereira,10,Leandro Nunes,5,Tokio,7,Celular 64GB,5,SAMSUNG,2,Telefonia,2,Papelaria/Cosmetico,2019,1,6,06/01/2019,2,52.9,903
+313,6,Jose Santos,10,Leandro Nunes,5,Tokio,10,Papel A4,8,FABER CASTELL,6,Eletrodomestico,2,Papelaria/Cosmetico,2019,7,20,20/07/2019,3,2.15,1151
+314,6,Jose Santos,2,Fabiana Arantes,4,Paris,11,Caneta,8,FABER CASTELL,4,Cosmetico,4,Casa e Decoracao,2020,9,26,26/09/2020,3,.5,1448
+315,2,Mariana Pereira,6,Rodrigo Faro,1,Sao Paulo,3,Teclado,1,APPLE,2,Telefonia,4,Casa e Decoracao,2020,6,5,05/06/2020,1,342.09,923
+316,2,Mariana Pereira,6,Rodrigo Faro,2,Salvador,5,Computador,4,IBM,2,Telefonia,2,Papelaria/Cosmetico,2019,12,4,04/12/2019,1,2125.99,944
+317,1,Joao Vitor,8,Marcia Raso,4,Paris,14,Classificador,9,AVON,2,Telefonia,3,Eletro Eletronico,2019,4,26,26/04/2019,3,25,968
+318,3,Luciana Pereira,3,Abilio Bio,4,Paris,7,Celular 64GB,5,SAMSUNG,4,Cosmetico,2,Papelaria/Cosmetico,2020,11,13,13/11/2020,1,52.9,738
+319,4,Ana Claudia,7,Ana Claudia Rossi,4,Paris,19,Fogao,13,BRASTEMP,3,Papelaria,1,Tecnologia,2019,6,27,27/06/2019,2,1500,1456
+320,5,Daniela,12,Fabio Lopes,1,Sao Paulo,4,Monitor,4,IBM,6,Eletrodomestico,2,Papelaria/Cosmetico,2020,10,23,23/10/2020,3,1300,172
+321,6,Jose Santos,12,Fabio Lopes,5,Tokio,12,Borracha,7,TILIBRA,2,Telefonia,4,Casa e Decoracao,2020,9,17,17/09/2020,2,5.3,694
+322,4,Ana Claudia,2,Fabiana Arantes,2,Salvador,3,Teclado,1,APPLE,2,Telefonia,1,Tecnologia,2020,4,7,07/04/2020,3,342.09,414
+323,2,Mariana Pereira,4,Mario Menezes,3,New York,4,Monitor,4,IBM,6,Eletrodomestico,1,Tecnologia,2019,8,1,01/08/2019,3,1300,937
+324,4,Ana Claudia,12,Fabio Lopes,2,Salvador,20,Geladeira,12,ELETROLUX,1,Informatica,2,Papelaria/Cosmetico,2019,12,7,07/12/2019,3,350,1183
+325,2,Mariana Pereira,1,Dirceu Matheus,4,Paris,19,Fogao,13,BRASTEMP,3,Papelaria,4,Casa e Decoracao,2020,7,4,04/07/2020,3,1500,877
+326,4,Ana Claudia,5,Elisangela Ines,3,New York,23,Sofá,14,MAGALU,5,Eletronico,3,Eletro Eletronico,2020,11,12,12/11/2020,3,300,1346
+327,5,Daniela,9,Leandro Pupo,1,Sao Paulo,19,Fogao,13,BRASTEMP,1,Informatica,4,Casa e Decoracao,2020,4,9,09/04/2020,1,1500,474
+328,6,Jose Santos,5,Elisangela Ines,1,Sao Paulo,13,Estojo,7,TILIBRA,2,Telefonia,2,Papelaria/Cosmetico,2020,12,9,09/12/2020,1,3.2,449
+329,5,Daniela,1,Dirceu Matheus,4,Paris,9,Celular 128Gb,8,FABER CASTELL,3,Papelaria,3,Eletro Eletronico,2020,7,27,27/07/2020,3,12.25,150
+330,1,Joao Vitor,2,Fabiana Arantes,3,New York,12,Borracha,7,TILIBRA,4,Cosmetico,3,Eletro Eletronico,2019,3,16,16/03/2019,1,5.3,447
+331,3,Luciana Pereira,3,Abilio Bio,2,Salvador,17,Aparelho de Barbear Eletrico,2,MICROSOFT,6,Eletrodomestico,2,Papelaria/Cosmetico,2020,5,5,05/05/2020,2,1075,1220
+332,3,Luciana Pereira,10,Leandro Nunes,1,Sao Paulo,16,Perfume,11,PHILIPS,6,Eletrodomestico,1,Tecnologia,2019,6,5,05/06/2019,2,135,787
+333,1,Joao Vitor,9,Leandro Pupo,4,Paris,14,Classificador,9,AVON,6,Eletrodomestico,3,Eletro Eletronico,2019,7,21,21/07/2019,3,25,338
+334,3,Luciana Pereira,4,Mario Menezes,2,Salvador,23,Sofá,14,MAGALU,4,Cosmetico,3,Eletro Eletronico,2019,2,15,15/02/2019,1,300,995
+335,4,Ana Claudia,10,Leandro Nunes,5,Tokio,6,Notebook,5,SAMSUNG,1,Informatica,1,Tecnologia,2019,10,10,10/10/2019,1,550,398
+336,2,Mariana Pereira,8,Marcia Raso,5,Tokio,9,Celular 128Gb,8,FABER CASTELL,2,Telefonia,1,Tecnologia,2020,3,2,02/03/2020,2,12.25,1197
+337,1,Joao Vitor,3,Abilio Bio,2,Salvador,6,Notebook,5,SAMSUNG,2,Telefonia,1,Tecnologia,2019,3,19,19/03/2019,3,550,756
+338,2,Mariana Pereira,10,Leandro Nunes,1,Sao Paulo,20,Geladeira,12,ELETROLUX,4,Cosmetico,4,Casa e Decoracao,2019,1,15,15/01/2019,2,350,363
+339,1,Joao Vitor,5,Elisangela Ines,4,Paris,15,Baton,10,BOTICARIO,4,Cosmetico,3,Eletro Eletronico,2019,11,13,13/11/2019,1,98.5,1260
+340,3,Luciana Pereira,7,Ana Claudia Rossi,3,New York,5,Computador,4,IBM,1,Informatica,1,Tecnologia,2019,11,5,05/11/2019,3,2125.99,729
+341,1,Joao Vitor,4,Mario Menezes,3,New York,2,Mouse,2,MICROSOFT,1,Informatica,1,Tecnologia,2019,4,20,20/04/2019,3,25.9,569
+342,1,Joao Vitor,10,Leandro Nunes,4,Paris,3,Teclado,1,APPLE,2,Telefonia,2,Papelaria/Cosmetico,2020,11,11,11/11/2020,2,342.09,984
+343,2,Mariana Pereira,3,Abilio Bio,2,Salvador,14,Classificador,9,AVON,2,Telefonia,3,Eletro Eletronico,2020,7,28,28/07/2020,3,25,458
+344,1,Joao Vitor,11,Nizam Omar,5,Tokio,11,Caneta,8,FABER CASTELL,5,Eletronico,3,Eletro Eletronico,2020,2,24,24/02/2020,1,.5,922
+345,6,Jose Santos,11,Nizam Omar,5,Tokio,13,Estojo,7,TILIBRA,4,Cosmetico,1,Tecnologia,2019,7,20,20/07/2019,1,3.2,643
+346,2,Mariana Pereira,8,Marcia Raso,2,Salvador,4,Monitor,4,IBM,2,Telefonia,4,Casa e Decoracao,2020,8,26,26/08/2020,1,1300,1191
+347,3,Luciana Pereira,8,Marcia Raso,5,Tokio,8,Telefone Sem Fio,5,SAMSUNG,3,Papelaria,3,Eletro Eletronico,2020,3,7,07/03/2020,3,875,171
+348,2,Mariana Pereira,10,Leandro Nunes,2,Salvador,8,Telefone Sem Fio,5,SAMSUNG,1,Informatica,4,Casa e Decoracao,2019,9,6,06/09/2019,1,875,1388
+349,1,Joao Vitor,7,Ana Claudia Rossi,5,Tokio,17,Aparelho de Barbear Eletrico,2,MICROSOFT,6,Eletrodomestico,3,Eletro Eletronico,2020,6,21,21/06/2020,1,1075,1104
+350,6,Jose Santos,3,Abilio Bio,1,Sao Paulo,14,Classificador,9,AVON,5,Eletronico,2,Papelaria/Cosmetico,2019,12,5,05/12/2019,3,25,1419
+351,5,Daniela,3,Abilio Bio,1,Sao Paulo,19,Fogao,13,BRASTEMP,2,Telefonia,3,Eletro Eletronico,2019,12,20,20/12/2019,1,1500,1348
+352,3,Luciana Pereira,3,Abilio Bio,1,Sao Paulo,19,Fogao,13,BRASTEMP,6,Eletrodomestico,3,Eletro Eletronico,2020,3,13,13/03/2020,2,1500,993
+353,6,Jose Santos,9,Leandro Pupo,1,Sao Paulo,4,Monitor,4,IBM,3,Papelaria,1,Tecnologia,2020,3,27,27/03/2020,2,1300,247
+354,2,Mariana Pereira,8,Marcia Raso,3,New York,13,Estojo,7,TILIBRA,5,Eletronico,1,Tecnologia,2020,3,8,08/03/2020,3,3.2,1293
+355,3,Luciana Pereira,7,Ana Claudia Rossi,3,New York,21,Microondas,14,MAGALU,5,Eletronico,1,Tecnologia,2020,7,26,26/07/2020,1,2100,869
+356,1,Joao Vitor,7,Ana Claudia Rossi,3,New York,6,Notebook,5,SAMSUNG,4,Cosmetico,4,Casa e Decoracao,2020,1,28,28/01/2020,2,550,1119
+357,2,Mariana Pereira,8,Marcia Raso,2,Salvador,12,Borracha,7,TILIBRA,3,Papelaria,2,Papelaria/Cosmetico,2020,10,23,23/10/2020,1,5.3,1208
+358,3,Luciana Pereira,8,Marcia Raso,3,New York,21,Microondas,14,MAGALU,6,Eletrodomestico,1,Tecnologia,2019,7,25,25/07/2019,1,2100,1027
+359,2,Mariana Pereira,3,Abilio Bio,5,Tokio,18,Xbox,12,ELETROLUX,5,Eletronico,2,Papelaria/Cosmetico,2020,1,24,24/01/2020,2,850,127
+360,1,Joao Vitor,1,Dirceu Matheus,3,New York,10,Papel A4,8,FABER CASTELL,5,Eletronico,2,Papelaria/Cosmetico,2020,7,8,08/07/2020,3,2.15,67
+361,4,Ana Claudia,10,Leandro Nunes,3,New York,4,Monitor,4,IBM,3,Papelaria,4,Casa e Decoracao,2019,7,27,27/07/2019,1,1300,747
+362,5,Daniela,7,Ana Claudia Rossi,2,Salvador,1,TV,3,DELL,4,Cosmetico,3,Eletro Eletronico,2019,9,16,16/09/2019,2,25.15,1256
+363,6,Jose Santos,10,Leandro Nunes,1,Sao Paulo,12,Borracha,7,TILIBRA,2,Telefonia,4,Casa e Decoracao,2019,1,3,03/01/2019,1,5.3,377
+364,2,Mariana Pereira,6,Rodrigo Faro,3,New York,20,Geladeira,12,ELETROLUX,1,Informatica,4,Casa e Decoracao,2019,1,14,14/01/2019,3,350,1413
+365,2,Mariana Pereira,7,Ana Claudia Rossi,2,Salvador,22,Mesa,14,MAGALU,4,Cosmetico,3,Eletro Eletronico,2020,8,8,08/08/2020,2,1600,1040
+366,3,Luciana Pereira,1,Dirceu Matheus,4,Paris,21,Microondas,14,MAGALU,4,Cosmetico,4,Casa e Decoracao,2019,5,5,05/05/2019,2,2100,368
+367,1,Joao Vitor,12,Fabio Lopes,4,Paris,11,Caneta,8,FABER CASTELL,3,Papelaria,3,Eletro Eletronico,2019,4,1,01/04/2019,3,.5,469
+368,2,Mariana Pereira,4,Mario Menezes,1,Sao Paulo,3,Teclado,1,APPLE,4,Cosmetico,1,Tecnologia,2019,11,20,20/11/2019,1,342.09,357
+369,6,Jose Santos,2,Fabiana Arantes,2,Salvador,8,Telefone Sem Fio,5,SAMSUNG,1,Informatica,1,Tecnologia,2019,4,14,14/04/2019,2,875,81
+370,1,Joao Vitor,1,Dirceu Matheus,4,Paris,16,Perfume,11,PHILIPS,4,Cosmetico,3,Eletro Eletronico,2019,4,27,27/04/2019,3,135,486
+371,1,Joao Vitor,12,Fabio Lopes,5,Tokio,12,Borracha,7,TILIBRA,1,Informatica,1,Tecnologia,2020,2,4,04/02/2020,2,5.3,357
+372,6,Jose Santos,4,Mario Menezes,3,New York,3,Teclado,1,APPLE,4,Cosmetico,1,Tecnologia,2019,11,19,19/11/2019,3,342.09,100
+373,6,Jose Santos,9,Leandro Pupo,2,Salvador,16,Perfume,11,PHILIPS,2,Telefonia,1,Tecnologia,2019,12,25,25/12/2019,2,135,752
+374,6,Jose Santos,5,Elisangela Ines,2,Salvador,1,TV,3,DELL,2,Telefonia,1,Tecnologia,2020,10,2,02/10/2020,1,25.15,801
+375,3,Luciana Pereira,11,Nizam Omar,2,Salvador,14,Classificador,9,AVON,4,Cosmetico,1,Tecnologia,2019,7,2,02/07/2019,2,25,961
+376,2,Mariana Pereira,8,Marcia Raso,5,Tokio,19,Fogao,13,BRASTEMP,5,Eletronico,1,Tecnologia,2019,1,16,16/01/2019,2,1500,764
+377,5,Daniela,3,Abilio Bio,3,New York,9,Celular 128Gb,8,FABER CASTELL,2,Telefonia,1,Tecnologia,2019,10,23,23/10/2019,2,12.25,1098
+378,4,Ana Claudia,9,Leandro Pupo,4,Paris,23,Sofá,14,MAGALU,6,Eletrodomestico,2,Papelaria/Cosmetico,2019,11,13,13/11/2019,2,300,1241
+379,6,Jose Santos,9,Leandro Pupo,3,New York,10,Papel A4,8,FABER CASTELL,2,Telefonia,4,Casa e Decoracao,2020,3,12,12/03/2020,1,2.15,1311
+380,6,Jose Santos,2,Fabiana Arantes,5,Tokio,21,Microondas,14,MAGALU,3,Papelaria,1,Tecnologia,2019,7,26,26/07/2019,2,2100,632
+381,6,Jose Santos,2,Fabiana Arantes,1,Sao Paulo,3,Teclado,1,APPLE,2,Telefonia,3,Eletro Eletronico,2019,5,5,05/05/2019,1,342.09,100
+382,4,Ana Claudia,7,Ana Claudia Rossi,3,New York,7,Celular 64GB,5,SAMSUNG,3,Papelaria,1,Tecnologia,2020,1,19,19/01/2020,1,52.9,655
+383,5,Daniela,8,Marcia Raso,2,Salvador,19,Fogao,13,BRASTEMP,1,Informatica,3,Eletro Eletronico,2020,4,23,23/04/2020,2,1500,180
+384,1,Joao Vitor,3,Abilio Bio,3,New York,15,Baton,10,BOTICARIO,1,Informatica,4,Casa e Decoracao,2020,6,17,17/06/2020,1,98.5,1089
+385,3,Luciana Pereira,1,Dirceu Matheus,5,Tokio,4,Monitor,4,IBM,2,Telefonia,2,Papelaria/Cosmetico,2019,8,11,11/08/2019,1,1300,605
+386,2,Mariana Pereira,1,Dirceu Matheus,1,Sao Paulo,14,Classificador,9,AVON,4,Cosmetico,3,Eletro Eletronico,2020,7,26,26/07/2020,3,25,749
+387,5,Daniela,11,Nizam Omar,3,New York,9,Celular 128Gb,8,FABER CASTELL,5,Eletronico,4,Casa e Decoracao,2020,2,1,01/02/2020,3,12.25,770
+388,5,Daniela,1,Dirceu Matheus,4,Paris,19,Fogao,13,BRASTEMP,2,Telefonia,4,Casa e Decoracao,2019,6,23,23/06/2019,1,1500,1058
+389,1,Joao Vitor,12,Fabio Lopes,3,New York,17,Aparelho de Barbear Eletrico,2,MICROSOFT,1,Informatica,4,Casa e Decoracao,2019,12,19,19/12/2019,3,1075,6
+390,5,Daniela,12,Fabio Lopes,5,Tokio,2,Mouse,2,MICROSOFT,6,Eletrodomestico,1,Tecnologia,2020,5,22,22/05/2020,3,25.9,326
+391,2,Mariana Pereira,10,Leandro Nunes,3,New York,17,Aparelho de Barbear Eletrico,2,MICROSOFT,6,Eletrodomestico,4,Casa e Decoracao,2019,3,7,07/03/2019,1,1075,76
+392,2,Mariana Pereira,11,Nizam Omar,1,Sao Paulo,18,Xbox,12,ELETROLUX,4,Cosmetico,3,Eletro Eletronico,2019,10,7,07/10/2019,3,850,912
+393,2,Mariana Pereira,7,Ana Claudia Rossi,2,Salvador,13,Estojo,7,TILIBRA,1,Informatica,1,Tecnologia,2019,3,12,12/03/2019,3,3.2,1039
+394,2,Mariana Pereira,11,Nizam Omar,2,Salvador,3,Teclado,1,APPLE,1,Informatica,4,Casa e Decoracao,2019,7,21,21/07/2019,3,342.09,1399
+395,4,Ana Claudia,3,Abilio Bio,5,Tokio,20,Geladeira,12,ELETROLUX,6,Eletrodomestico,1,Tecnologia,2019,4,24,24/04/2019,3,350,1081
+396,1,Joao Vitor,5,Elisangela Ines,3,New York,3,Teclado,1,APPLE,4,Cosmetico,4,Casa e Decoracao,2020,5,8,08/05/2020,3,342.09,446
+397,2,Mariana Pereira,2,Fabiana Arantes,1,Sao Paulo,16,Perfume,11,PHILIPS,5,Eletronico,1,Tecnologia,2019,2,19,19/02/2019,2,135,236
+398,3,Luciana Pereira,12,Fabio Lopes,3,New York,19,Fogao,13,BRASTEMP,6,Eletrodomestico,4,Casa e Decoracao,2020,2,26,26/02/2020,3,1500,1019
+399,4,Ana Claudia,7,Ana Claudia Rossi,5,Tokio,13,Estojo,7,TILIBRA,3,Papelaria,2,Papelaria/Cosmetico,2020,12,9,09/12/2020,2,3.2,1283
+400,6,Jose Santos,4,Mario Menezes,1,Sao Paulo,6,Notebook,5,SAMSUNG,2,Telefonia,4,Casa e Decoracao,2020,5,5,05/05/2020,2,550,1303
+401,3,Luciana Pereira,10,Leandro Nunes,5,Tokio,18,Xbox,12,ELETROLUX,3,Papelaria,1,Tecnologia,2019,8,12,12/08/2019,2,850,510
+402,5,Daniela,12,Fabio Lopes,3,New York,3,Teclado,1,APPLE,2,Telefonia,1,Tecnologia,2020,5,13,13/05/2020,1,342.09,341
+403,1,Joao Vitor,4,Mario Menezes,4,Paris,2,Mouse,2,MICROSOFT,6,Eletrodomestico,2,Papelaria/Cosmetico,2020,1,5,05/01/2020,1,25.9,195
+404,5,Daniela,10,Leandro Nunes,4,Paris,5,Computador,4,IBM,3,Papelaria,3,Eletro Eletronico,2020,5,11,11/05/2020,3,2125.99,1045
+405,4,Ana Claudia,3,Abilio Bio,5,Tokio,23,Sofá,14,MAGALU,4,Cosmetico,2,Papelaria/Cosmetico,2019,12,13,13/12/2019,2,300,1055
+406,1,Joao Vitor,9,Leandro Pupo,1,Sao Paulo,8,Telefone Sem Fio,5,SAMSUNG,2,Telefonia,2,Papelaria/Cosmetico,2019,10,8,08/10/2019,2,875,766
+407,6,Jose Santos,10,Leandro Nunes,1,Sao Paulo,10,Papel A4,8,FABER CASTELL,4,Cosmetico,4,Casa e Decoracao,2019,1,24,24/01/2019,2,2.15,1203
+408,3,Luciana Pereira,5,Elisangela Ines,2,Salvador,23,Sofá,14,MAGALU,3,Papelaria,3,Eletro Eletronico,2019,8,26,26/08/2019,2,300,419
+409,1,Joao Vitor,5,Elisangela Ines,2,Salvador,10,Papel A4,8,FABER CASTELL,1,Informatica,3,Eletro Eletronico,2019,7,18,18/07/2019,1,2.15,960
+410,1,Joao Vitor,8,Marcia Raso,5,Tokio,6,Notebook,5,SAMSUNG,4,Cosmetico,2,Papelaria/Cosmetico,2019,8,5,05/08/2019,2,550,1318
+411,5,Daniela,11,Nizam Omar,1,Sao Paulo,11,Caneta,8,FABER CASTELL,4,Cosmetico,1,Tecnologia,2019,5,1,01/05/2019,1,.5,377
+412,1,Joao Vitor,11,Nizam Omar,4,Paris,10,Papel A4,8,FABER CASTELL,3,Papelaria,2,Papelaria/Cosmetico,2019,12,23,23/12/2019,3,2.15,491
+413,3,Luciana Pereira,10,Leandro Nunes,4,Paris,23,Sofá,14,MAGALU,1,Informatica,1,Tecnologia,2020,4,5,05/04/2020,3,300,1238
+414,1,Joao Vitor,12,Fabio Lopes,1,Sao Paulo,8,Telefone Sem Fio,5,SAMSUNG,2,Telefonia,1,Tecnologia,2020,6,13,13/06/2020,3,875,963
+415,1,Joao Vitor,10,Leandro Nunes,3,New York,1,TV,3,DELL,2,Telefonia,4,Casa e Decoracao,2019,12,22,22/12/2019,2,25.15,1062
+416,3,Luciana Pereira,8,Marcia Raso,2,Salvador,16,Perfume,11,PHILIPS,1,Informatica,4,Casa e Decoracao,2019,1,25,25/01/2019,3,135,1490
+417,1,Joao Vitor,1,Dirceu Matheus,2,Salvador,4,Monitor,4,IBM,1,Informatica,4,Casa e Decoracao,2020,10,20,20/10/2020,2,1300,813
+418,6,Jose Santos,10,Leandro Nunes,4,Paris,14,Classificador,9,AVON,1,Informatica,4,Casa e Decoracao,2019,8,22,22/08/2019,2,25,1261
+419,3,Luciana Pereira,9,Leandro Pupo,1,Sao Paulo,18,Xbox,12,ELETROLUX,4,Cosmetico,4,Casa e Decoracao,2020,7,20,20/07/2020,1,850,249
+420,3,Luciana Pereira,5,Elisangela Ines,3,New York,11,Caneta,8,FABER CASTELL,3,Papelaria,3,Eletro Eletronico,2019,10,8,08/10/2019,1,.5,766
+421,4,Ana Claudia,5,Elisangela Ines,3,New York,22,Mesa,14,MAGALU,2,Telefonia,2,Papelaria/Cosmetico,2019,7,10,10/07/2019,3,1600,1440
+422,6,Jose Santos,8,Marcia Raso,3,New York,10,Papel A4,8,FABER CASTELL,4,Cosmetico,1,Tecnologia,2019,3,27,27/03/2019,1,2.15,1111
+423,6,Jose Santos,7,Ana Claudia Rossi,2,Salvador,12,Borracha,7,TILIBRA,6,Eletrodomestico,4,Casa e Decoracao,2019,7,28,28/07/2019,3,5.3,1063
+424,1,Joao Vitor,7,Ana Claudia Rossi,4,Paris,12,Borracha,7,TILIBRA,4,Cosmetico,4,Casa e Decoracao,2019,6,20,20/06/2019,1,5.3,309
+425,4,Ana Claudia,1,Dirceu Matheus,4,Paris,12,Borracha,7,TILIBRA,6,Eletrodomestico,1,Tecnologia,2020,4,25,25/04/2020,2,5.3,361
+426,6,Jose Santos,9,Leandro Pupo,5,Tokio,6,Notebook,5,SAMSUNG,3,Papelaria,4,Casa e Decoracao,2020,7,3,03/07/2020,3,550,980
+427,6,Jose Santos,6,Rodrigo Faro,4,Paris,5,Computador,4,IBM,3,Papelaria,3,Eletro Eletronico,2020,2,10,10/02/2020,3,2125.99,754
+428,2,Mariana Pereira,1,Dirceu Matheus,5,Tokio,18,Xbox,12,ELETROLUX,4,Cosmetico,3,Eletro Eletronico,2020,9,18,18/09/2020,2,850,1112
+429,1,Joao Vitor,12,Fabio Lopes,1,Sao Paulo,15,Baton,10,BOTICARIO,4,Cosmetico,3,Eletro Eletronico,2019,7,18,18/07/2019,1,98.5,1161
+430,6,Jose Santos,11,Nizam Omar,2,Salvador,17,Aparelho de Barbear Eletrico,2,MICROSOFT,6,Eletrodomestico,1,Tecnologia,2020,11,12,12/11/2020,2,1075,127
+431,4,Ana Claudia,5,Elisangela Ines,4,Paris,9,Celular 128Gb,8,FABER CASTELL,3,Papelaria,2,Papelaria/Cosmetico,2020,7,18,18/07/2020,2,12.25,1372
+432,5,Daniela,9,Leandro Pupo,1,Sao Paulo,19,Fogao,13,BRASTEMP,6,Eletrodomestico,2,Papelaria/Cosmetico,2020,10,14,14/10/2020,3,1500,1165
+433,1,Joao Vitor,3,Abilio Bio,4,Paris,9,Celular 128Gb,8,FABER CASTELL,5,Eletronico,3,Eletro Eletronico,2019,9,25,25/09/2019,1,12.25,1294
+434,6,Jose Santos,3,Abilio Bio,4,Paris,12,Borracha,7,TILIBRA,4,Cosmetico,3,Eletro Eletronico,2020,8,17,17/08/2020,2,5.3,178
+435,5,Daniela,8,Marcia Raso,2,Salvador,21,Microondas,14,MAGALU,4,Cosmetico,1,Tecnologia,2019,3,4,04/03/2019,3,2100,129
+436,3,Luciana Pereira,8,Marcia Raso,2,Salvador,14,Classificador,9,AVON,5,Eletronico,2,Papelaria/Cosmetico,2020,4,8,08/04/2020,2,25,540
+437,3,Luciana Pereira,12,Fabio Lopes,5,Tokio,1,TV,3,DELL,5,Eletronico,1,Tecnologia,2020,5,27,27/05/2020,1,25.15,555
+438,1,Joao Vitor,2,Fabiana Arantes,5,Tokio,16,Perfume,11,PHILIPS,6,Eletrodomestico,3,Eletro Eletronico,2019,5,24,24/05/2019,3,135,1050
+439,6,Jose Santos,5,Elisangela Ines,2,Salvador,14,Classificador,9,AVON,5,Eletronico,2,Papelaria/Cosmetico,2019,4,25,25/04/2019,1,25,1234
+440,5,Daniela,4,Mario Menezes,5,Tokio,6,Notebook,5,SAMSUNG,4,Cosmetico,2,Papelaria/Cosmetico,2019,1,5,05/01/2019,1,550,447
+441,6,Jose Santos,4,Mario Menezes,2,Salvador,5,Computador,4,IBM,5,Eletronico,2,Papelaria/Cosmetico,2019,2,27,27/02/2019,2,2125.99,813
+442,2,Mariana Pereira,8,Marcia Raso,3,New York,1,TV,3,DELL,3,Papelaria,1,Tecnologia,2020,12,28,28/12/2020,3,25.15,1212
+443,2,Mariana Pereira,8,Marcia Raso,1,Sao Paulo,23,Sofá,14,MAGALU,5,Eletronico,1,Tecnologia,2020,1,11,11/01/2020,1,300,188
+444,2,Mariana Pereira,11,Nizam Omar,4,Paris,9,Celular 128Gb,8,FABER CASTELL,4,Cosmetico,1,Tecnologia,2020,4,25,25/04/2020,1,12.25,833
+445,5,Daniela,5,Elisangela Ines,4,Paris,4,Monitor,4,IBM,3,Papelaria,2,Papelaria/Cosmetico,2019,7,6,06/07/2019,1,1300,1498
+446,6,Jose Santos,9,Leandro Pupo,5,Tokio,16,Perfume,11,PHILIPS,6,Eletrodomestico,2,Papelaria/Cosmetico,2020,8,22,22/08/2020,2,135,1096
+447,4,Ana Claudia,6,Rodrigo Faro,1,Sao Paulo,17,Aparelho de Barbear Eletrico,2,MICROSOFT,3,Papelaria,2,Papelaria/Cosmetico,2020,12,17,17/12/2020,2,1075,556
+448,4,Ana Claudia,12,Fabio Lopes,2,Salvador,14,Classificador,9,AVON,4,Cosmetico,2,Papelaria/Cosmetico,2020,11,7,07/11/2020,3,25,523
+449,4,Ana Claudia,7,Ana Claudia Rossi,5,Tokio,23,Sofá,14,MAGALU,1,Informatica,2,Papelaria/Cosmetico,2020,4,14,14/04/2020,2,300,838
+450,3,Luciana Pereira,3,Abilio Bio,2,Salvador,13,Estojo,7,TILIBRA,6,Eletrodomestico,4,Casa e Decoracao,2020,1,20,20/01/2020,2,3.2,480
+451,5,Daniela,9,Leandro Pupo,3,New York,1,TV,3,DELL,3,Papelaria,1,Tecnologia,2020,3,8,08/03/2020,2,25.15,333
+452,4,Ana Claudia,6,Rodrigo Faro,4,Paris,19,Fogao,13,BRASTEMP,4,Cosmetico,4,Casa e Decoracao,2019,4,19,19/04/2019,1,1500,1276
+453,5,Daniela,10,Leandro Nunes,1,Sao Paulo,23,Sofá,14,MAGALU,3,Papelaria,1,Tecnologia,2020,4,28,28/04/2020,1,300,1180
+454,2,Mariana Pereira,4,Mario Menezes,3,New York,23,Sofá,14,MAGALU,1,Informatica,2,Papelaria/Cosmetico,2019,11,20,20/11/2019,3,300,216
+455,6,Jose Santos,11,Nizam Omar,3,New York,3,Teclado,1,APPLE,2,Telefonia,2,Papelaria/Cosmetico,2020,9,18,18/09/2020,2,342.09,344
+456,3,Luciana Pereira,6,Rodrigo Faro,3,New York,1,TV,3,DELL,3,Papelaria,1,Tecnologia,2019,5,16,16/05/2019,3,25.15,194
+457,1,Joao Vitor,11,Nizam Omar,1,Sao Paulo,23,Sofá,14,MAGALU,3,Papelaria,3,Eletro Eletronico,2020,10,4,04/10/2020,1,300,1107
+458,5,Daniela,4,Mario Menezes,3,New York,6,Notebook,5,SAMSUNG,2,Telefonia,4,Casa e Decoracao,2020,2,9,09/02/2020,1,550,180
+459,1,Joao Vitor,11,Nizam Omar,3,New York,7,Celular 64GB,5,SAMSUNG,2,Telefonia,2,Papelaria/Cosmetico,2019,12,17,17/12/2019,1,52.9,765
+460,1,Joao Vitor,6,Rodrigo Faro,4,Paris,2,Mouse,2,MICROSOFT,4,Cosmetico,3,Eletro Eletronico,2019,10,2,02/10/2019,2,25.9,17
+461,5,Daniela,12,Fabio Lopes,3,New York,22,Mesa,14,MAGALU,3,Papelaria,3,Eletro Eletronico,2019,12,10,10/12/2019,1,1600,453
+462,5,Daniela,7,Ana Claudia Rossi,5,Tokio,17,Aparelho de Barbear Eletrico,2,MICROSOFT,6,Eletrodomestico,4,Casa e Decoracao,2020,7,27,27/07/2020,2,1075,383
+463,4,Ana Claudia,9,Leandro Pupo,4,Paris,18,Xbox,12,ELETROLUX,6,Eletrodomestico,2,Papelaria/Cosmetico,2019,7,12,12/07/2019,3,850,164
+464,5,Daniela,1,Dirceu Matheus,1,Sao Paulo,6,Notebook,5,SAMSUNG,5,Eletronico,1,Tecnologia,2019,5,27,27/05/2019,2,550,1007
+465,2,Mariana Pereira,8,Marcia Raso,1,Sao Paulo,3,Teclado,1,APPLE,2,Telefonia,3,Eletro Eletronico,2020,6,20,20/06/2020,2,342.09,755
+466,3,Luciana Pereira,6,Rodrigo Faro,3,New York,1,TV,3,DELL,2,Telefonia,4,Casa e Decoracao,2020,10,20,20/10/2020,1,25.15,364
+467,6,Jose Santos,11,Nizam Omar,3,New York,4,Monitor,4,IBM,2,Telefonia,3,Eletro Eletronico,2019,12,25,25/12/2019,1,1300,1491
+468,3,Luciana Pereira,2,Fabiana Arantes,1,Sao Paulo,4,Monitor,4,IBM,2,Telefonia,2,Papelaria/Cosmetico,2019,8,24,24/08/2019,2,1300,858
+469,2,Mariana Pereira,1,Dirceu Matheus,1,Sao Paulo,5,Computador,4,IBM,5,Eletronico,2,Papelaria/Cosmetico,2020,1,7,07/01/2020,3,2125.99,1088
+470,5,Daniela,9,Leandro Pupo,5,Tokio,1,TV,3,DELL,5,Eletronico,3,Eletro Eletronico,2020,9,21,21/09/2020,1,25.15,803
+471,1,Joao Vitor,9,Leandro Pupo,4,Paris,23,Sofá,14,MAGALU,6,Eletrodomestico,2,Papelaria/Cosmetico,2020,9,26,26/09/2020,3,300,722
+472,5,Daniela,5,Elisangela Ines,3,New York,8,Telefone Sem Fio,5,SAMSUNG,2,Telefonia,1,Tecnologia,2019,4,25,25/04/2019,1,875,708
+473,2,Mariana Pereira,4,Mario Menezes,4,Paris,15,Baton,10,BOTICARIO,1,Informatica,3,Eletro Eletronico,2020,12,19,19/12/2020,2,98.5,389
+474,5,Daniela,7,Ana Claudia Rossi,2,Salvador,4,Monitor,4,IBM,1,Informatica,1,Tecnologia,2020,9,24,24/09/2020,1,1300,737
+475,2,Mariana Pereira,3,Abilio Bio,5,Tokio,23,Sofá,14,MAGALU,6,Eletrodomestico,4,Casa e Decoracao,2020,1,15,15/01/2020,3,300,1325
+476,3,Luciana Pereira,9,Leandro Pupo,3,New York,22,Mesa,14,MAGALU,4,Cosmetico,1,Tecnologia,2020,5,19,19/05/2020,1,1600,94
+477,1,Joao Vitor,6,Rodrigo Faro,1,Sao Paulo,10,Papel A4,8,FABER CASTELL,5,Eletronico,2,Papelaria/Cosmetico,2019,8,6,06/08/2019,1,2.15,188
+478,3,Luciana Pereira,2,Fabiana Arantes,4,Paris,6,Notebook,5,SAMSUNG,1,Informatica,1,Tecnologia,2019,1,24,24/01/2019,2,550,610
+479,2,Mariana Pereira,1,Dirceu Matheus,5,Tokio,19,Fogao,13,BRASTEMP,5,Eletronico,1,Tecnologia,2020,3,25,25/03/2020,2,1500,839
+480,4,Ana Claudia,2,Fabiana Arantes,1,Sao Paulo,8,Telefone Sem Fio,5,SAMSUNG,5,Eletronico,1,Tecnologia,2020,1,14,14/01/2020,3,875,578
+481,6,Jose Santos,8,Marcia Raso,3,New York,16,Perfume,11,PHILIPS,6,Eletrodomestico,1,Tecnologia,2019,2,2,02/02/2019,2,135,1187
+482,5,Daniela,3,Abilio Bio,4,Paris,9,Celular 128Gb,8,FABER CASTELL,1,Informatica,1,Tecnologia,2019,9,10,10/09/2019,2,12.25,1247
+483,1,Joao Vitor,10,Leandro Nunes,4,Paris,20,Geladeira,12,ELETROLUX,3,Papelaria,3,Eletro Eletronico,2020,1,26,26/01/2020,3,350,152
+484,1,Joao Vitor,11,Nizam Omar,2,Salvador,15,Baton,10,BOTICARIO,5,Eletronico,1,Tecnologia,2019,8,13,13/08/2019,3,98.5,933
+485,3,Luciana Pereira,7,Ana Claudia Rossi,2,Salvador,17,Aparelho de Barbear Eletrico,2,MICROSOFT,5,Eletronico,1,Tecnologia,2019,8,4,04/08/2019,3,1075,321
+486,4,Ana Claudia,5,Elisangela Ines,4,Paris,17,Aparelho de Barbear Eletrico,2,MICROSOFT,3,Papelaria,4,Casa e Decoracao,2020,5,9,09/05/2020,3,1075,1282
+487,3,Luciana Pereira,1,Dirceu Matheus,1,Sao Paulo,13,Estojo,7,TILIBRA,4,Cosmetico,3,Eletro Eletronico,2019,9,6,06/09/2019,3,3.2,715
+488,2,Mariana Pereira,11,Nizam Omar,4,Paris,4,Monitor,4,IBM,5,Eletronico,1,Tecnologia,2019,1,16,16/01/2019,2,1300,1160
+489,5,Daniela,2,Fabiana Arantes,5,Tokio,18,Xbox,12,ELETROLUX,3,Papelaria,2,Papelaria/Cosmetico,2019,6,11,11/06/2019,2,850,1481
+490,1,Joao Vitor,8,Marcia Raso,3,New York,11,Caneta,8,FABER CASTELL,4,Cosmetico,2,Papelaria/Cosmetico,2019,8,14,14/08/2019,3,.5,1458
+491,4,Ana Claudia,11,Nizam Omar,1,Sao Paulo,23,Sofá,14,MAGALU,3,Papelaria,4,Casa e Decoracao,2020,10,1,01/10/2020,3,300,1415
+492,2,Mariana Pereira,2,Fabiana Arantes,5,Tokio,16,Perfume,11,PHILIPS,2,Telefonia,2,Papelaria/Cosmetico,2019,6,2,02/06/2019,2,135,343
+493,5,Daniela,10,Leandro Nunes,4,Paris,20,Geladeira,12,ELETROLUX,1,Informatica,1,Tecnologia,2020,2,26,26/02/2020,1,350,1446
+494,5,Daniela,8,Marcia Raso,1,Sao Paulo,19,Fogao,13,BRASTEMP,3,Papelaria,1,Tecnologia,2019,9,17,17/09/2019,3,1500,236
+495,1,Joao Vitor,9,Leandro Pupo,3,New York,4,Monitor,4,IBM,2,Telefonia,2,Papelaria/Cosmetico,2020,1,22,22/01/2020,3,1300,1357
+496,5,Daniela,3,Abilio Bio,2,Salvador,6,Notebook,5,SAMSUNG,4,Cosmetico,1,Tecnologia,2019,9,13,13/09/2019,2,550,374
+497,2,Mariana Pereira,8,Marcia Raso,4,Paris,16,Perfume,11,PHILIPS,3,Papelaria,1,Tecnologia,2020,9,19,19/09/2020,3,135,1081
+498,6,Jose Santos,9,Leandro Pupo,2,Salvador,10,Papel A4,8,FABER CASTELL,4,Cosmetico,1,Tecnologia,2019,11,19,19/11/2019,3,2.15,995
+499,1,Joao Vitor,4,Mario Menezes,3,New York,17,Aparelho de Barbear Eletrico,2,MICROSOFT,1,Informatica,4,Casa e Decoracao,2019,6,27,27/06/2019,3,1075,821
+500,1,Joao Vitor,11,Nizam Omar,5,Tokio,5,Computador,4,IBM,6,Eletrodomestico,3,Eletro Eletronico,2019,4,19,19/04/2019,2,2125.99,865
+501,3,Luciana Pereira,5,Elisangela Ines,2,Salvador,2,Mouse,2,MICROSOFT,5,Eletronico,2,Papelaria/Cosmetico,2020,7,6,06/07/2020,1,25.9,534
+502,1,Joao Vitor,4,Mario Menezes,1,Sao Paulo,21,Microondas,14,MAGALU,2,Telefonia,2,Papelaria/Cosmetico,2019,4,19,19/04/2019,1,2100,785
+503,1,Joao Vitor,4,Mario Menezes,5,Tokio,12,Borracha,7,TILIBRA,4,Cosmetico,2,Papelaria/Cosmetico,2019,6,13,13/06/2019,1,5.3,758
+504,1,Joao Vitor,2,Fabiana Arantes,1,Sao Paulo,22,Mesa,14,MAGALU,6,Eletrodomestico,3,Eletro Eletronico,2019,6,27,27/06/2019,3,1600,82
